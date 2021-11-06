@@ -3,7 +3,7 @@ name: deploy application
 on:
   push:
     branches:
-      - staging
+      - master
 
 jobs:
   build:
