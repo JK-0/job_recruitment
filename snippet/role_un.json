@@ -1,0 +1,2215 @@
+{
+    "data": {
+        "#1": {
+            "Accounts": {
+                "#1": "Accounts Exec./Accountant",
+                "#2": "Cost Accountant",
+                "#3": "Taxation(Direct) Mgr",
+                "#4": "Taxation(Indirect) Mgr",
+                "#5": "Accounts Mgr",
+                "#6": "Financial Accountant",
+                "#7": "ICWA",
+                "#8": "Chartered Accountant"
+            },
+            "Finance/Audit": {
+                "#9": "Finance Exec.",
+                "#10": "Credit/Control Exec.",
+                "#11": "Investor Relationship-Exec./Mgr",
+                "#12": "Credit/Control Mgr",
+                "#13": "Financial Analyst",
+                "#14": "Audit Mgr",
+                "#15": "Forex Mgr",
+                "#16": "Treasury Mgr",
+                "#17": "Finance/Budgeting Mgr"
+            },
+            "Snr. Mgmt": {
+                "#18": "Head/VP/GM-Finance/Audit",
+                "#19": "Head/VP/GM-Accounts",
+                "#20": "Head/VP/GM-CFO/Financial Controller",
+                "#21": "Head/VP/GM-Regulatory Affairs",
+                "#22": "Company Secretary",
+                "#27": "Head / VP / GM-Taxation"
+            },
+            "Other": {
+                "#23": "Outside Consultant",
+                "#24": "Fresher",
+                "#26": "Trainee",
+                "#25": "Other"
+            }
+        },
+        "#46": {
+            "#1": "DSA/Company Rep.",
+            "#2": "Independent Rep.",
+            "#3": "Life-Insurance Agent",
+            "#4": "Non-Life Insurance Agent",
+            "#5": "Real Estate Agent",
+            "#6": "Travel Agent",
+            "#7": "Other"
+        },
+        "#81": {
+            "Analytics & BI": {
+                "#1": "Data Analyst",
+                "#2": "Financial Analyst",
+                "#3": "Business Analyst",
+                "#8": "Analytics Manager"
+            },
+            "Senior Management": {
+                "#4": "Head/VP/GM - Analytics & BI"
+            },
+            "Other": {
+                "#5": "Fresher",
+                "#6": "Trainee",
+                "#7": "Other"
+            }
+        },
+        "#2": {
+            "Architectural Services": {
+                "#1": "Architect",
+                "#2": "Draughtsman",
+                "#3": "Project Architect",
+                "#4": "Naval Architect",
+                "#5": "Landscape Architect",
+                "#6": "Town Planner"
+            },
+            "Interior Design": {
+                "#8": "Interior Designer"
+            },
+            "Other": {
+                "#9": "Outside Consultant",
+                "#10": "Fresher",
+                "#11": "Other",
+                "#12": "Trainee"
+            }
+        },
+        "#6": {
+            "Retail/Personal Banking": {
+                "#1": "Cust. Service Exec.",
+                "#2": "Cust. Service Mgr",
+                "#3": "Collections Officer",
+                "#4": "Collections Mgr",
+                "#5": "CRM/Phone/Internet Banking Exec.",
+                "#6": "Sales Officer",
+                "#7": "Credit Officer",
+                "#8": "Branch Mgr",
+                "#9": "Regional Mgr",
+                "#10": "National Head",
+                "#11": "Asset Operations/Documentation-Exec./Mgr",
+                "#12": "Domestic Private Banking-Exec./Mgr",
+                "#13": "Product Mgr-Auto/Home Loans"
+            },
+            "Card Products": {
+                "#14": "Cards-Sales Officer/Exec.",
+                "#15": "Cards Operations  Exec.",
+                "#16": "Cards Operations Mgr",
+                "#17": "Collections Exec.",
+                "#18": "Card Approvals Officer",
+                "#19": "Merchant Acquisition Exec.",
+                "#20": "Business Alliances Mgr",
+                "#21": "Product Mgr-Cards"
+            },
+            "Treasury": {
+                "#22": "Back Office Exec.",
+                "#23": "Money Markets Dealer",
+                "#24": "Forex Dealer",
+                "#25": "Sales/BD Mgr-Forex",
+                "#26": "Forex Operations Mgr",
+                "#27": "Debt Instrument Dealer",
+                "#28": "Sales/BD Mgr-Debt Instruments",
+                "#29": "Debt Operations Mgr",
+                "#30": "Derivatives Dealer",
+                "#31": "Sales/BD Mgr-Derivatives",
+                "#32": "Treasury Operations Mgr"
+            },
+            "Operations/Processes/Finance/Legal": {
+                "#33": "Clearing Officer",
+                "#34": "Cash Officer",
+                "#35": "Operations Officer",
+                "#36": "Operations Mgr",
+                "#37": "Depository Services-Exec./Mgr",
+                "#38": "Legal Officer",
+                "#39": "Legal Mgr",
+                "#40": "Operations Mgr",
+                "#41": "Trade Finance Operations Mgr",
+                "#42": "Technology Mgr",
+                "#43": "ATM Operations Mgr",
+                "#44": "Audit Mgr",
+                "#45": "Finance/Budgeting Mgr",
+                "#136": "EFT / ACH Manager"
+            },
+            "Corporate Banking": {
+                "#46": "Relationship Exec.",
+                "#47": "Client Servicing/Key Account Mgr",
+                "#48": "Credit Analyst-Corporate Banking",
+                "#49": "Credit Mgr-Corporate Banking",
+                "#50": "Bad Debts/Workouts Mgr"
+            },
+            "Investment Banking": {
+                "#52": "Debt Analyst",
+                "#53": "Mergers & Acquisitions Analyst",
+                "#54": "Equity Analyst",
+                "#55": "Equity Mgr",
+                "#56": "Domestic Debt Mgr",
+                "#57": "Offshore Debt Mgr",
+                "#58": "Mergers&Acquisitions Mgr",
+                "#59": "Corporate Advisory Mgr",
+                "#60": "Project Finance Mgr",
+                "#61": "Issues/IPO Mgr",
+                "#62": "Legal Officer",
+                "#63": "Legal Mgr",
+                "#135": "Asset Manager",
+                "#134": "Wealth Manager"
+            },
+            "INSURANCE/FINANCIAL SERVICES": {},
+            "Life": {
+                "#64": "Insurance Analyst",
+                "#65": "Actuary Mgr",
+                "#66": "Underwriter",
+                "#67": "Insurance Advisor",
+                "#68": "Unit Mgr",
+                "#69": "Sales/BD-Mgr",
+                "#70": "Branch Mgr",
+                "#71": "Product Mgr",
+                "#72": "Sales Head",
+                "#73": "Regional Mgr",
+                "#74": "Legal Officer",
+                "#75": "Legal Mgr"
+            },
+            "General Insurance": {
+                "#77": "Insurance Analyst",
+                "#78": "Actuary Mgr",
+                "#79": "Underwriter",
+                "#80": "Head-Underwriting",
+                "#81": "Insurance Advisor",
+                "#82": "Unit Mgr",
+                "#83": "Sales/BD-Mgr",
+                "#84": "Branch Mgr",
+                "#85": "Product Mgr",
+                "#86": "Sales Head",
+                "#87": "Regional Mgr",
+                "#88": "Legal Officer",
+                "#89": "Legal Mgr",
+                "#90": "Banc Assurance"
+            },
+            "Operations/Processes": {
+                "#91": "Insurance Operations Officer",
+                "#92": "Insurance Operations Mgr",
+                "#93": "CRM/Cust. Service Exec.",
+                "#94": "CRM/Cust. Service Mgr",
+                "#95": "Claims Exec.",
+                "#96": "Claims Mgr",
+                "#97": "Investment/Treasury Mgr"
+            },
+            "FINANCIAL SERVICES": {},
+            "Stock Broking": {
+                "#98": "Analyst",
+                "#99": "Broker/Trader",
+                "#100": "Sales/BD Mgr-Broking"
+            },
+            "Mutual Funds/Fund Mgnmt/Asset Mgmt": {
+                "#101": "Sales Exec./Investment Advisor",
+                "#102": "Sales/BD Mgr",
+                "#103": "Mktg Mgr",
+                "#104": "Portfolio Mgr",
+                "#105": "Analyst",
+                "#106": "CRM/Cust. Service Exec.",
+                "#107": "CRM/Cust. Service Mgr",
+                "#108": "Operations Exec.",
+                "#109": "Operations Mgr",
+                "#110": "Fund Mgr-Debt",
+                "#111": "Fund Mgr-Equity",
+                "#112": "Private Equity/Hedge Fund/VC-Mgr"
+            },
+            "Snr. Mgmt": {
+                "#113": "Head/VP/GM-Treasury",
+                "#114": "Head/VP/GM-Legal",
+                "#115": "Head/VP/GM-Operations",
+                "#116": "Head/VP/GM-CFO/Financial Controller",
+                "#117": "Head/VP/GM-Depository Services",
+                "#118": "Head/VP/GM-Relationships",
+                "#119": "Head/VP/GM-Credit/Risk",
+                "#120": "Head/VP/GM-Equity",
+                "#121": "Head/VP/GM-Domestic/Offshore Debt",
+                "#122": "Head/VP/GM-Mergers & Acquisitions",
+                "#123": "Head/VP/GM-Corporate Advisory",
+                "#124": "Head/VP/GM-Project Finance",
+                "#125": "Head/VP/GM-Investment Banking",
+                "#126": "Head/VP/GM-Underwritting",
+                "#127": "Head/VP/GM-Mktg",
+                "#128": "Head/VP/GM-Insurance Operations",
+                "#129": "Head/VP/GM-Claims",
+                "#130": "Head/VP/GM-Sales",
+                "#131": "Head/VP/GM-Fund Management",
+                "#132": "Head/VP/GM-Private Equity/Hedge Fund/VC",
+                "#133": "Head/VP/GM-Broking"
+            }
+        },
+        "#84": {
+            "Beauty Services": {
+                "#1": "Hair Stylist",
+                "#2": "Make-Up Artist",
+                "#7": "Beauty Manager / Beautician",
+                "#5": "Spa Therapist"
+            },
+            "Health & Fitness": {
+                "#3": "Yoga Trainer",
+                "#4": "Fitness Trainer / Gym Instructor",
+                "#6": "Slimming Manager",
+                "#8": "Centre Head / Branch Head / Club Manager",
+                "#11": "Other"
+            }
+        },
+        "#5": {
+            "Content Development": {
+                "#1": "Content Developer",
+                "#2": "Freelance Journalist",
+                "#3": "Business Content Developer",
+                "#4": "Fashion Content Developer",
+                "#5": "Features Content Developer",
+                "#6": "Intnl Business Content Developer",
+                "#7": "IT/Technical Content Developer",
+                "#8": "Sports Content Developer",
+                "#9": "Political Content Developer"
+            },
+            "Journalist/Writer": {
+                "#10": "Journalist",
+                "#11": "Sub Editor/Reporter",
+                "#12": "Sr Sub Editor/Sr Reporter",
+                "#13": "Coresspondent/Asst. Editor/Associate Editor",
+                "#14": "Principal Coresspondent/Features Writer/Resident Writer",
+                "#15": "Chief of Bureau/Editor in Chief",
+                "#16": "Investigative Journalist",
+                "#17": "Proof Reader"
+            },
+            "Editor": {
+                "#18": "Business Editor",
+                "#19": "Fashion Editor",
+                "#20": "Features Editor",
+                "#21": "Intnl Business Editor",
+                "#22": "IT/Technical Editor",
+                "#23": "Managing Editor",
+                "#24": "Sports Editor",
+                "#25": "Political Editor"
+            },
+            "Other": {
+                "#27": "Trainee",
+                "#28": "Fresher",
+                "#26": "Other"
+            }
+        },
+        "#7": {
+            "Corporate Planning/Consulting/Strategy": {
+                "#1": "Outside Consultant",
+                "#2": "Sr Outside Consultant",
+                "#3": "Corporate Planning/Strategy Mgr",
+                "#4": "Research Associate",
+                "#5": "Business Analyst",
+                "#6": "EA to Chairman/President/VP"
+            },
+            "Snr Mgmt": {
+                "#7": "Head/VP/GM-Corporate Planning/Strategy",
+                "#8": "VP/President/Partner",
+                "#9": "CEO/MD/Director"
+            },
+            "Other": {
+                "#10": "Other",
+                "#11": "Trainees",
+                "#12": "Freshers"
+            }
+        },
+        "#83": {
+            "CSR & Sustainability": {
+                "#1": "CSR Manager",
+                "#2": "Sustainability  Manager"
+            },
+            "Senior Management": {
+                "#3": "Head / VP / GM-CSR",
+                "#4": "Head / VP / GM-Sustainability",
+                "#7": "Other"
+            }
+        },
+        "#21": {
+            "R&D": {
+                "#1": "R&D Exec.",
+                "#2": "Clinical Research Associate/Scientist",
+                "#3": "Clinical Research Mgr",
+                "#4": "Analytical Chemistry Associate/Scientist",
+                "#5": "Analytical Chemistry Mgr",
+                "#6": "Chemical Research Associate/Scientist",
+                "#7": "Chemical Research Mgr",
+                "#8": "Bio/Pharma Informatics-Associate/Scientist",
+                "#9": "Formulation Scientists",
+                "#10": "Microbiologist",
+                "#11": "Molecular Biology",
+                "#13": "Nutritionist",
+                "#14": "Research Scientist",
+                "#15": "Bio-Tech Research Associate/Scientist",
+                "#16": "Bio-Tech Research Mgr",
+                "#17": "Pharmacist/Chemist/Bio Chemist",
+                "#18": "Bio-Statistician",
+                "#19": "Lab Technician/Medical Technician/Lab Staff",
+                "#20": "Product Development Exec.",
+                "#21": "Product Development Mgr",
+                "#12": "Other Scientist"
+            },
+            "Drug Regulatory Affairs/Documentation": {
+                "#22": "Drug Regulatory Dr.",
+                "#23": "Documentation/Medical Writing",
+                "#24": "Regulatory Affairs Mgr"
+            },
+            "QA&QC-Compliance& Regulatory": {
+                "#25": "QA&QC-Executive",
+                "#26": "QA&QC Mgr"
+            },
+            "Engineering Design": {
+                "#27": "Design Engineer",
+                "#28": "Sr. Design Engineer",
+                "#29": "Tech. Lead/Project Lead"
+            },
+            "Snr. Mgmt": {
+                "#30": "Head/VP/GM-R&D",
+                "#31": "Head/VP/GM-Production",
+                "#32": "Head/VP/GM-Formulations",
+                "#33": "Head/VP/GM-QA/QC",
+                "#34": "Head/VP/GM-Regulatory Affairs"
+            },
+            "Other": {
+                "#35": "Research Associate",
+                "#36": "Fresher",
+                "#39": "Postdoc Position/Fellowship",
+                "#40": "Practical Training/Internship",
+                "#38": "Trainee",
+                "#37": "Other"
+            }
+        },
+        "#10": {
+            "Documentation/Shipping": {
+                "#1": "Documentation/Shipping Exec./Mgr"
+            },
+            "Production/Merchandising/BD": {
+                "#2": "Production Exec.",
+                "#3": "Purchase Officer",
+                "#4": "Floor Mgr",
+                "#5": "Production Mgr",
+                "#6": "Merchandiser",
+                "#7": "QA/QC Exec.",
+                "#8": "QA/QC Mgr",
+                "#9": "BD Mgr"
+            },
+            "Snr. Mgmt": {
+                "#10": "Head/VP/GM-Documentation/Shipping",
+                "#11": "Head/VP/GM-Production",
+                "#12": "Head/VP/GM-Purchase",
+                "#13": "VP/GM-Quality",
+                "#14": "CEO/MD/Director",
+                "#15": "Liason Officer/Mgr",
+                "#16": "Trader",
+                "#17": "Agent"
+            },
+            "Other": {
+                "#18": "Other",
+                "#19": "Fresher",
+                "#20": "Trainee"
+            }
+        },
+        "#42": {
+            "Designer": {
+                "#1": "Accessory Designer",
+                "#2": "Apparel/Garment Designer",
+                "#3": "Footwear Designer",
+                "#4": "Merchandiser",
+                "#5": "Textile Designer",
+                "#6": "Jewellery Designer"
+            },
+            "Other": {
+                "#7": "Freelancer",
+                "#8": "Other",
+                "#9": "Fresher",
+                "#10": "Trainee"
+            }
+        },
+        "#45": {
+            "#1": "Security Guard",
+            "#2": "Security Supervisor",
+            "#3": "Security Mgr",
+            "#4": "Policeman",
+            "#5": "Army/Navy/Airforce Personnel",
+            "#6": "Chief Security Officer",
+            "Other": {
+                "#7": "Other",
+                "#8": "Trainee",
+                "#9": "Fresher"
+            }
+        },
+        "#4": {
+            "Food & Beverage": {
+                "#1": "Bartender",
+                "#2": "Commis",
+                "#41": "Night Manager",
+                "#39": "Pastry Chef",
+                "#37": "Bar Manager",
+                "#3": "Steward",
+                "#4": "Captain",
+                "#5": "Host/Hostess",
+                "#6": "Butler",
+                "#7": "Chef De Partis",
+                "#8": "Executive Sous Chef/Chef De Cuisine",
+                "#9": "Sous Chef",
+                "#10": "Banquet Sales Exec./ Mgr",
+                "#11": "Restaurant Mgr",
+                "#12": "F&B Mgr",
+                "#13": "General Manager",
+                "#38": "Waiter / Waitress / Sommelier",
+                "#48": "Busser"
+            },
+            "Housekeeping": {
+                "#14": "Housekeeping Exec./Asst.",
+                "#15": "Housekeeping Mgr"
+            },
+            "Front Office/Cust. Care": {
+                "#16": "Cashier",
+                "#17": "Front Office/Guest Relations Exec./Mgr",
+                "#18": "Travel Desk Mgr",
+                "#19": "Lobby/Duty Mgr",
+                "#33": "Staff Function",
+                "#34": "Guest Service Agent",
+                "#36": "Concierge"
+            },
+            "Senior Management": {
+                "#21": "Executive/Master Chef",
+                "#22": "Head/VP/GM-F&B",
+                "#23": "Head/VP/GM/National Manager-Sales",
+                "#24": "Head/VP/-PR/Corp. Communication",
+                "#25": "Head/VP/GM-Accounts",
+                "#26": "CEO/MD/Director"
+            },
+            "Other Services": {
+                "#27": "Health Club Asst./Mgr",
+                "#28": "Masseur",
+                "#42": "Leisure Staff / Manager",
+                "#43": "Revenue Manager",
+                "#44": "Spa Therapist",
+                "#46": "Security Manager / Officer",
+                "#47": "Casino Manager",
+                "#49": "Event Planner"
+            },
+            "Other": {
+                "#29": "Other",
+                "#31": "Fresher",
+                "#32": "Trainee"
+            }
+        },
+        "#12": {
+            "HR/ Recruitment / IR": {
+                "#1": "HR Executive",
+                "#2": "HR Manager",
+                "#3": "Recruitment Executive",
+                "#4": "Recruitment Manager",
+                "#5": "Pay Roll/Compensation Manager",
+                "#6": "Performance Management Manager",
+                "#7": "Industrial/Labour Relations Manager",
+                "#8": "Training Manager",
+                "#19": "Staffing Specialist/ Manpower Planning",
+                "#20": "HR Business Partner",
+                "#21": "Payroll Executive",
+                "#22": "Employee Relations Executive",
+                "#23": "Employee Relations Manager"
+            },
+            "Administration/Facility Management": {
+                "#9": "Executive/ Sr Executive - Administration",
+                "#10": "Manager / Sr Manager - Administration",
+                "#24": "Executive/ Sr Executive - Facility Management",
+                "#25": "Manager / Sr Manager - Facility Management",
+                "#26": "Travel Desk  - Coordinator",
+                "#27": "Transport Executive",
+                "#28": "Transport Manager"
+            },
+            "Senior Management": {
+                "#11": "Head/VP/GM-HR",
+                "#12": "Head/VP/GM-Training & Development",
+                "#13": "Head/VP/GM-Admin & Facilities",
+                "#14": "Head/VP/GM-Recruitment",
+                "#29": "Head/VP/GM-Compensation & Benefits",
+                "#30": "Head/VP/GM-Facility Management"
+            },
+            "Other": {
+                "#15": "Outside Consultant",
+                "#16": "Other",
+                "#17": "Trainee",
+                "#18": "Fresher"
+            }
+        },
+        "#37": {
+            "Technical Support": {
+                "#1": "Customer Support Engnr/Technician",
+                "#2": "Technical Support Mgr",
+                "#3": "Head/VP/GM-Tech. Support"
+            },
+            "Telecom": {
+                "#4": "RF Engnr",
+                "#5": "RF Installation Engnr",
+                "#6": "RF System Designer",
+                "#7": "GPRS Engnr",
+                "#8": "GSM Engnr",
+                "#9": "Embedded Technologies Engnr",
+                "#10": "Switching/Router Engnr",
+                "#11": "Mech. Engnr -Telecom",
+                "#12": "Civil Engnr -Telecom",
+                "#13": "Electrical Engnr -Telecom",
+                "#14": "Network Planning Engnr",
+                "#15": "Network Planning Manager",
+                "#16": "Security Engnr",
+                "#17": "Maintenance Engnr"
+            },
+            "IT Hardware": {
+                "#18": "Hardware Design Engnr",
+                "#19": "Tech Lead -Hardware Design",
+                "#20": "Hardware Installation Technician",
+                "#21": "QA/QC Exec.",
+                "#22": "QA/QC Mgr",
+                "#23": "Network Admin",
+                "#24": "System Admin"
+            },
+            "Project Mgmt": {
+                "#25": "Project Mgr-Telecom"
+            },
+            "Snr. Mgmt": {
+                "#27": "Head/VP/GM-Operations",
+                "#28": "Head/VP/GM-Quality",
+                "#29": "CEO/MD/Director",
+                "#30": "SBU Head/Profit Centre Head",
+                "#31": "CTO/Head/VP-Technology (Telecom/ISP)",
+                "#32": "CIO"
+            },
+            "Other": {
+                "#33": "Outside Consultant",
+                "#34": "Other",
+                "#35": "Trainee",
+                "#36": "Fresher"
+            }
+        },
+        "#61": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect / Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head / Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#62": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect  /  Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head  /  Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#63": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect  /  Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head  /  Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#71": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect / Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head / Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#65": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect / Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head / Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#64": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect / Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head / Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#72": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect  /  Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head  /  Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#74": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect  /  Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head  /  Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#73": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect / Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head / Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#66": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect  /  Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head  /  Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#75": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect  /  Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head  /  Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#67": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect  /  Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head  /  Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#68": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect  /  Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head  /  Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#70": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect  /  Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head  /  Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#69": {
+            "Programming & Design": {
+                "#1": "Software Developer",
+                "#2": "Team Lead/Tech Lead",
+                "#3": "System Analyst",
+                "#4": "Tech Architect",
+                "#5": "Database Architect/Designer",
+                "#6": "Project Lead",
+                "#7": "Testing Engnr",
+                "#8": "Product Mgr",
+                "#9": "Graphic/Web Designer",
+                "#10": "Release Mgr"
+            },
+            "Admin/Maintenance/Security/Datawarehousing": {
+                "#11": "DBA",
+                "#12": "Network Admin",
+                "#13": "System Admin",
+                "#14": "System Security",
+                "#15": "Tech Support Engnr",
+                "#16": "Maintenance Engnr",
+                "#17": "Webmaster",
+                "#18": "IT/Networking-Mgr",
+                "#19": "Information Systems(MIS)-Mgr"
+            },
+            "System Design/Implementation/ERP/CRM": {
+                "#20": "System Integration Technician",
+                "#21": "Business Analyst",
+                "#22": "Datawarehousing Technician",
+                "#23": "Outside Technical Consultant",
+                "#24": "Functional Outside Consultant",
+                "#25": "EDP Analyst",
+                "#41": "Solution Architect / Enterprise Architect",
+                "#42": "Subject Matter Expert",
+                "#43": "ERP Consultant"
+            },
+            "QA/Testing/Documentation": {
+                "#26": "Technical Writer",
+                "#27": "Instructional Designer",
+                "#28": "Technical Documentor",
+                "#29": "QA/QC Exec.",
+                "#30": "QA/QC Mgr"
+            },
+            "Project Management": {
+                "#31": "Project Mgr-IT/Software"
+            },
+            "Senior Management": {
+                "#32": "Program Mgr",
+                "#33": "Head/VP/GM-Quality",
+                "#34": "Head/VP/GM-Technology(IT)/CTO",
+                "#35": "CIO",
+                "#44": "Practice Head / Practice Manager"
+            },
+            "Other": {
+                "#36": "Trainer/Faculty",
+                "#37": "Trainee",
+                "#38": "Fresher",
+                "#39": "Outside Consultant",
+                "#40": "IT/Technical Content Developer"
+            }
+        },
+        "#8": {
+            "Voice": {
+                "#1": "Associate/Sr. Associate -(NonTechnical)",
+                "#2": "Associate/Sr. Associate -(Technical)",
+                "#3": "Team Leader -(NonTechnical)",
+                "#4": "Team Leader -(Technical)",
+                "#5": "Asst. Mgr/Mgr -(NonTechnical)",
+                "#6": "Asst. Mgr/Mgr (Technical)",
+                "#7": "Telecalling/Telemarketing Exec."
+            },
+            "Back Office/Web/Transaction Processing": {
+                "#8": "Associate/Sr. Associate -(NonTechnical)",
+                "#9": "Associate/Sr. Associate -(Technical)",
+                "#10": "Team Leader -(NonTechnical)",
+                "#11": "Team Leader -(Technical)",
+                "#12": "Asst. Mgr/Mgr -(Technical)",
+                "#13": "Asst. Mgr / Mgr -(NonTechnical)"
+            },
+            "Operations": {
+                "#14": "Process Flow Analyst",
+                "#15": "Business/EDP Analyst",
+                "#16": "BD Mgr",
+                "#17": "Transitions/Migrations Mgr",
+                "#18": "Operations Mgr",
+                "#19": "Infrastructure & Technology Mgr",
+                "#20": "Dialer Mgr"
+            },
+            "Training": {
+                "#21": "Technical/Process Trainer",
+                "#22": "Voice & Accent Trainer",
+                "#23": "Soft Skills Trainer"
+            },
+            "Quality": {
+                "#24": "QA/QC Exec.",
+                "#25": "QA/QC Mgr",
+                "#26": "Quality Coach",
+                "#27": "Team Leader-QA/QC"
+            },
+            "Snr. Mgmt": {
+                "#28": "Head/VP/GM-Operations",
+                "#29": "Head/VP/GM-Training & Development",
+                "#30": "Head/VP/GM-Transitions",
+                "#31": "Service Delivery Leader",
+                "#32": "Head/VP/GM-QA & QC"
+            },
+            "Other": {
+                "#33": "Medical Transcriptionist",
+                "#34": "Fresher",
+                "#35": "Trainee",
+                "#36": "Outside Consultant",
+                "#37": "Other"
+            }
+        },
+        "#13": {
+            "#1": "Apprentice/Intern",
+            "#2": "Private Attorney/Lawyer",
+            "#3": "Advisor/Outside Consultant",
+            "#4": "Law Officer",
+            "#5": "Legal Mgr",
+            "#6": "Company Secretary",
+            "#7": "Head/VP/GM-Legal",
+            "Drug Regulatory Affairs/Documentation": {
+                "#8": "Drug Regulatory Dr.",
+                "#9": "Documentation/Medical Writing",
+                "#10": "Regulatory Affairs Mgr",
+                "#11": "Head/VP/GM-Regulatory Affairs"
+            },
+            "Other": {
+                "#13": "Other",
+                "#14": "Fresher",
+                "#15": "Trainee"
+            }
+        },
+        "#15": {
+            "Advtg": {
+                "#8": "Client Servicing Exec.",
+                "#9": "Client Servicing/Key Account Mgr",
+                "#10": "Account Director",
+                "#11": "Creative Director",
+                "#12": "Media Planning Exec./Mgr",
+                "#13": "Media Buying Exec./Mgr",
+                "#14": "Events/Promotion Exec.",
+                "#15": "Events/Promotion Mgr"
+            },
+            "Mktg": {
+                "#1": "Corp. Communication Exec.",
+                "#2": "Direct Mktg Exec.",
+                "#3": "Direct Mktg Mgr",
+                "#4": "Product Exec.",
+                "#5": "Product/Brand Mgr",
+                "#6": "Business Alliances Mgr",
+                "#7": "Mktg Mgr",
+                "#36": "Zonal Marketing Manager",
+                "#37": "Branch Marketing Manager",
+                "#38": "Regional Marketing Manager",
+                "#39": "Retail Marketing Manager",
+                "#40": "Rural Marketing Manager",
+                "#41": "Assistant / Associate Marketing Manager",
+                "#42": "International Marketing Manager",
+                "#43": "Sourcing Manager",
+                "#44": "Manager Marketing - Internal / External Communication",
+                "#45": "Manager - Market Research /  Consumer Insights / Industry Analysis"
+            },
+            "Online/Digital Marketing": {
+                "#46": "Search Engine Marketing/SEM Specialist",
+                "#47": "Search Engine Optimisation /SEO Specialist",
+                "#48": "Search Engine Optimisation /SEO Lead",
+                "#49": "Search Engine Optimisation /SEO Analyst",
+                "#50": "Affiliate Marketing Manager",
+                "#51": "Email Marketing Manager",
+                "#52": "PPC  /Pay Per Click Specialist",
+                "#53": "PPC  /Pay Per Click Lead",
+                "#54": "Display Marketing Executive",
+                "#55": "Display Marketing Manager",
+                "#56": "Social Media Marketing Manager"
+            },
+            "Creative": {
+                "#16": "Art Director/Sr Art Director",
+                "#57": "Asst Art Director",
+                "#17": "Visualiser",
+                "#58": "Sr Visualiser",
+                "#18": "Copywriter",
+                "#19": "Graphic Designer"
+            },
+            "MR": {
+                "#20": "MR Exec./Mgr",
+                "#21": "MR Field Supervisor"
+            },
+            "Public Relations": {
+                "#22": "PR Exec.",
+                "#23": "PR & Media Relations Mgr"
+            },
+            "Snr. Mgmt": {
+                "#24": "Head/Mgr/GM-Media Planning",
+                "#25": "Head/Mgr/GM-Media Buying",
+                "#26": "Head/VP/GM-PR/Corp. Communication",
+                "#27": "Head/VP/GM-Mktg",
+                "#28": "Head/VP/GM-Business Alliances",
+                "#29": "Head/VP/GM- MR",
+                "#30": "Head/VP/GM-Client Servicing",
+                "#31": "National Creative Director/VP-Creative",
+                "#59": "Head/VP/GM/ Mgr-Online/Digital Marketing"
+            },
+            "Other": {
+                "#32": "Other",
+                "#33": "Outside Consultant",
+                "#34": "Trainee",
+                "#35": "Fresher"
+            }
+        },
+        "#16": {
+            "R&D": {
+                "#1": "Clinical Research Associate/Scientist",
+                "#2": "Clinical Research Mgr",
+                "#3": "Analytical Chemistry Associate/Scientist",
+                "#4": "Analytical Chemistry Mgr",
+                "#5": "Chemical Research Associate/Scientist",
+                "#6": "Chemical Research Mgr",
+                "#7": "Bio/Pharma Informatics-Associate/Scientist",
+                "#8": "Formulation Scientist",
+                "#9": "Microbiologist",
+                "#10": "Molecular Biology",
+                "#11": "Other Scientist",
+                "#12": "Nutritionist",
+                "#13": "Research Scientist",
+                "#14": "Bio-Tech Research Associate/Scientist",
+                "#15": "Bio-Tech Research Mgr",
+                "#16": "Pharmacist/Chemist/Bio Chemist",
+                "#17": "Bio-Statistician"
+            },
+            "Medical Professional": {
+                "#18": "Chief Medical Officer/Head Medical Services",
+                "#19": "Clinical Researcher",
+                "#20": "Intern",
+                "#21": "Admin Services/Medical Facilities",
+                "#22": "Lab Technician/Medical Technician/Lab Staff",
+                "#23": "Medical Officer",
+                "#24": "Nurse",
+                "#25": "Medical Superintendent/Director",
+                "#26": "Anaesthetist",
+                "#27": "Cardiologist",
+                "#28": "Dermatologist",
+                "#29": "Dietician/Nutritionist",
+                "#30": "ENT Specialist",
+                "#31": "General Practitioner",
+                "#32": "Gynaeocologist",
+                "#33": "Hepatologist",
+                "#34": "Microbiologist",
+                "#35": "Nephrologist",
+                "#36": "Neurologist",
+                "#37": "Oncologist",
+                "#38": "Opthamologist",
+                "#39": "Orthopaedist",
+                "#40": "Paramedic",
+                "#41": "Pathologist",
+                "#42": "Pediatrician",
+                "#43": "Pharmacist/Chemist/Bio Chemist",
+                "#44": "Physiotherapist",
+                "#45": "Psychiatrist",
+                "#46": "Radiologist",
+                "#47": "Surgeon",
+                "#48": "Medical Rep.",
+                "#55": "Head Nurse / Nursing Superintendent / Clinical Instructor",
+                "#60": "Paramedic Nurse",
+                "#62": "Pathology Assistant",
+                "#58": "Radiologic technologists",
+                "#54": "Staff Nurse",
+                "#53": "Surgical Nurse",
+                "#59": "Ward Sister / Ward Supervisor"
+            },
+            "Drug Regulatory Affairs/Documentation": {
+                "#49": "Drug Regulatory Dr.",
+                "#50": "Documentation/Medical Writing",
+                "#51": "Regulatory Affairs Mgr",
+                "#52": "Other"
+            }
+        },
+        "#18": {
+            "#1": "Scientist",
+            "#2": "Packaging Development Exec./Mgr",
+            "#3": "Head/VP/GM-Packaging Development",
+            "#4": "Fresher",
+            "#5": "Trainee",
+            "#6": "Other",
+            "#7": "Outside Consultant"
+        },
+        "#19": {
+            "Production/Manufacturing/Maintenance": {
+                "#1": "Industrial Engnr",
+                "#2": "Design Engnr/Mgr",
+                "#3": "Factory Head",
+                "#4": "Engineering Mgr",
+                "#5": "Production Mgr",
+                "#6": "QA/QC Exec.",
+                "#7": "QA/QC Mgr",
+                "#8": "Product Development Exec.",
+                "#9": "Product Development Mgr",
+                "#10": "Workman/Foreman/Technician",
+                "#11": "Service/Maintenance Engnr",
+                "#12": "Service/Maintenance Supervisor",
+                "#13": "Project Mgr-Production/Manufacturing/Maintenance"
+            },
+            "Safety/Health/Environment": {
+                "#14": "Safety Officer/Mgr",
+                "#15": "Environment Engnr/Officer",
+                "#16": "Health-Officer/Mgr"
+            },
+            "Snr. Mgmt": {
+                "#17": "Head/VP/GM-QA/QC",
+                "#18": "Head/VP/GM-Production/Manufacturing/Maintenance",
+                "#19": "Head/VP/GM-Operations",
+                "#20": "SBU Head/Profit Centre Head",
+                "#21": "Head/VP/GM-Regulatory Affairs"
+            },
+            "Other": {
+                "#22": "Outside Consultant",
+                "#23": "Trainee",
+                "#24": "Fresher",
+                "#25": "Other"
+            }
+        },
+        "#14": {
+            "Logistics": {
+                "#1": "Store Keeper/Warehouse Assistant",
+                "#2": "Warehouse Mgr",
+                "#3": "CFA",
+                "#4": "Logistics Exec.",
+                "#5": "Logistics Mgr",
+                "#6": "Transport/Distribution Mgr"
+            },
+            "Purchase/Material Mgmt": {
+                "#7": "Purchase Exec.",
+                "#8": "Purchase/Vendor Development  Mgr",
+                "#9": "Material Mgmt Exec./Mgr",
+                "#10": "Commercial Mgr",
+                "#11": "QA/QC Exec.",
+                "#12": "QA/QC Mgr",
+                "#13": "Commodity Trading Mgr"
+            },
+            "Snr. Mgmt": {
+                "#14": "Head/VP/GM-SCM/Logistics",
+                "#15": "Head/VP/GM-Commercial",
+                "#16": "Head/VP/GM-Purchase/Material Mgmt"
+            },
+            "Other": {
+                "#17": "Other",
+                "#18": "Trainee",
+                "#19": "Fresher"
+            }
+        },
+        "#22": {
+            "Retail Sales": {
+                "#1": "Sales Exec./Officer",
+                "#2": "Counter Sales",
+                "#3": "Medical Rep.",
+                "#4": "Merchandiser",
+                "#5": "Sales/BD Mgr",
+                "#6": "Sales Promotion Mgr",
+                "#7": "Retail Store Mgr",
+                "#8": "Branch Mgr",
+                "#9": "Regional Mgr",
+                "#28": "Area Sales Manager"
+            },
+            "Corporate Sales": {
+                "#10": "Sales Exec./Officer",
+                "#11": "Sales/BD Mgr",
+                "#12": "Client Servicing/Key Account Mgr",
+                "#13": "Branch Mgr/Regional Mgr"
+            },
+            "Institutional Sales": {
+                "#14": "Sales Exec./Officer",
+                "#15": "Sales/BD Mgr",
+                "#16": "Sales Promotion Mgr",
+                "#17": "Banquet Sales Exec./Mgr",
+                "#18": "Institutional Sales/BD Mgr"
+            },
+            "Channel Sales": {
+                "#29": "Sales Executive / Officer",
+                "#30": "Sales / BD Manager",
+                "#31": "Client Relationship Manager",
+                "#32": "Key Account Manager",
+                "#33": "Area / Territory Manager",
+                "#34": "Regional Sales Manager"
+            },
+            "Sales Support": {
+                "#19": "Sales Trainer",
+                "#20": "Telesales/Telemarketing Exec./Officer",
+                "#21": "Sales Promotion Mgr",
+                "#22": "Front Desk/Cashier/Billing",
+                "#35": "Sales Coordinator"
+            },
+            "Pre Sales": {
+                "#36": "Proposal Response Manager",
+                "#37": "Bid Manager",
+                "#38": "Collaterals / Flyers Manager",
+                "#39": "RFI / RFP Manager",
+                "#40": "Pre Sales Consultant"
+            },
+            "After Sales Service": {
+                "#41": "Post Sales Consultant",
+                "#42": "Service Engineer",
+                "#43": "Service Manager"
+            },
+            "Snr. Mgmt": {
+                "#23": "Head/VP/GM/National Mgr -Sales",
+                "#44": "Head / VP/ GM/ National Manager After Sales"
+            },
+            "Other": {
+                "#25": "Other",
+                "#26": "Trainee",
+                "#27": "Fresher"
+            }
+        },
+        "#11": {
+            "#1": "Stenographer/Data Entry Operator",
+            "#2": "Receptionist",
+            "#3": "Secretary/PA",
+            "Other": {
+                "#4": "Other",
+                "#5": "Fresher",
+                "#6": "Trainee"
+            }
+        },
+        "#9": {
+            "#1": "CEO/MD/Director",
+            "#2": "Outside Consultant",
+            "#3": "Director",
+            "#4": "VP/President/Partner",
+            "#5": "Other"
+        },
+        "#82": {
+            "Shipping": {
+                "#1": "Deck Cadet ",
+                "#2": "Trainee Cadet",
+                "#3": "Marine Captain / Master Mariner",
+                "#4": "Ship Captain",
+                "#5": "Cabin Attendent",
+                "#6": "Chief Mate",
+                "#7": "Chief Operation Officer",
+                "#8": "Seaman",
+                "#9": "Able Seaman (AB)",
+                "#10": "Ordinary Seaman (OS)"
+            },
+            "Engineering": {
+                "#11": "Chief Electro Technical Officer (ETO)",
+                "#12": "Electrical Officer",
+                "#13": "Radio Officer",
+                "#14": "Chief Engineer",
+                "#15": "Electrical Engineer",
+                "#16": "Gas Engineer",
+                "#17": "Reefer Engineer",
+                "#18": "Trainee Engineer",
+                "#19": "2nd Engineer",
+                "#20": "3rd Engineer",
+                "#21": "4th Engineer",
+                "#22": "5th Engineer"
+            },
+            "Mechanic / Machinist / Motorman": {
+                "#23": "Chief Mechanic / Machinist / Motorman",
+                "#24": "Pumpman",
+                "#25": "Crane Operator",
+                "#26": "Deck Fitter / Oilers",
+                "#27": "Engine Fitter"
+            },
+            "House Keeping": {
+                "#28": "Steward",
+                "#29": "Chief Steward",
+                "#30": "Laundry Man",
+                "#31": "Bosun",
+                "#32": "Wiper"
+            },
+            "F&B": {
+                "#33": "Cook ",
+                "#34": "Chief Cook",
+                "#35": "Sous Chef",
+                "#36": "Chef",
+                "#37": "Bar Tender",
+                "#38": "Musician",
+                "#39": "Purser"
+            }
+        },
+        "#20": {
+            "Project Mgmt": {
+                "#1": "Project Mgr-Telecom",
+                "#2": "Project Mgr-IT/Software",
+                "#3": "Project Mgr-Production/Manufacturing/Maintenance"
+            },
+            "Site Engineers": {
+                "#4": "Civil Engnr-Telecom",
+                "#5": "Civil Engnr-Municipal",
+                "#6": "Civil Engnr-Water/Wastewater",
+                "#7": "Civil Engnr-Land Development",
+                "#8": "Civil Engnr-Aviation",
+                "#9": "Civil Engnr-Highway Roadway",
+                "#10": "Civil Engnr-Traffic",
+                "#11": "Civil Engnr-Other",
+                "#12": "Electrical Engnr-Telecom",
+                "#13": "Electrical Engnr-Commercial",
+                "#14": "Electrical Engnr-Industrial",
+                "#15": "Electrical Engnr-Utility",
+                "#16": "Electrical Engnr-Other",
+                "#17": "Geotechnical Engnr",
+                "#18": "Mech. Engnr-Telecom",
+                "#19": "Mech. Engnr-HVAC",
+                "#20": "Mech. Engnr-Plumbing/Fire Protection",
+                "#21": "Mech. Engnr-Other",
+                "#22": "Process Engnr-Plant Design",
+                "#23": "Structural Engnr-Bridge",
+                "#24": "Structural Engnr-Building",
+                "#25": "Structural Engnr-Other",
+                "#26": "Geographic Information Systems/GIS",
+                "#27": "Construction-General Building",
+                "#28": "Construction-Heavy",
+                "#29": "Construction-Residential",
+                "#30": "Construction-Specialty",
+                "#31": "Construction-Construction Management",
+                "#32": "Construction-Other",
+                "#33": "Maintenance Engnr",
+                "#34": "Engnr-Other",
+                "#35": "Fresher",
+                "#36": "Trainee"
+            }
+        },
+        "#36": {
+            "Teachers": {
+                "#1": "Counsellor",
+                "#3": "Librarian",
+                "#4": "Teacher/ Private Tutor",
+                "#5": "Special Education Teacher",
+                "#6": "Translator",
+                "#7": "Transcriptionist",
+                "#11": "Junior/Primary/Assistant Teacher",
+                "#12": "Class Teacher / Classroom coordinator",
+                "#13": "Head Teacher / Head Mistress / Head Master",
+                "#14": "Nursery Teacher",
+                "#15": "School Teacher",
+                "#16": "Vice Principal",
+                "#17": "Principal",
+                "#18": "Curriculum Designer",
+                "#19": "Lab Assistant ",
+                "#20": "Warden",
+                "#21": "Trainer",
+                "#22": "Soft Skill Trainer",
+                "#23": "Technical / Process Trainer",
+                "#24": "Voice and Accent Trainer",
+                "#67": "Creche Teacher / Incharge / Attendant",
+                "#68": "DaycareTeacher / Incharge / Attendant"
+            },
+            "Language Teachers (TGT/PGT)": {
+                "#25": "English Teacher",
+                "#26": "French Teacher",
+                "#27": "German Teacher",
+                "#28": "Hindi Teacher",
+                "#29": "Sanskrit Teacher",
+                "#30": "Spanish Teacher",
+                "#31": "Tamil Teacher",
+                "#32": "Japanese Teacher",
+                "#33": "Arabic Teacher",
+                "#34": "Urdu Teacher",
+                "#35": "Bengali Teacher",
+                "#36": "Chinese Teacher",
+                "#37": "Punjabi Teacher",
+                "#38": "Italian Teacher"
+            },
+            "Subject Teachers (TGT/PGT)": {
+                "#39": "Accounts Teacher",
+                "#40": "Biology Teacher",
+                "#41": "Chemistry Teacher",
+                "#42": "Commerce Teacher",
+                "#43": "Computer Teacher",
+                "#44": "Economics Teacher",
+                "#45": "Geography Teacher",
+                "#46": "History Teacher",
+                "#47": "Social Studies Teacher",
+                "#48": "Mathematics Teacher",
+                "#49": "Physics Teacher",
+                "#50": "Science Teacher",
+                "#66": "Business Studies Teacher"
+            },
+            "Life skills / ECA Teachers": {
+                "#51": "Arts Teacher",
+                "#52": "Dance Teacher",
+                "#53": "Drawing Teacher",
+                "#54": "Music Teacher",
+                "#55": "Sports / Physical Education Teacher",
+                "#56": "Yoga Teacher",
+                "#57": "Drama/Theater Teacher",
+                "#58": "Home Science Teacher"
+            },
+            "University Level": {
+                "#2": "Lecturer/Professor",
+                "#59": "Assistant Professor",
+                "#60": "Chancellor",
+                "#61": "Vice - Chancellor",
+                "#62": "Dean / Director ",
+                "#63": "Chairman",
+                "#64": "HOD",
+                "#65": "Visiting Faculty / Guest Faculty",
+                "#73": "Academic Coordinator"
+            },
+            "Other": {
+                "#8": "Other",
+                "#9": "Trainee",
+                "#10": "Fresher"
+            }
+        },
+        "#39": {
+            "#1": "CEO/MD/Director",
+            "#2": "CIO",
+            "#3": "Creative Director",
+            "#4": "National Creative Director/VP-Creative",
+            "#5": "CTO/Head/VP-Technology (Telecom/ISP)",
+            "#6": "Executive/Master Chef",
+            "#7": "Head/VP/GM-Documentation/Shipping",
+            "#8": "Head/VP/GM-BD",
+            "#9": "Head/VP/GM-Relationships",
+            "#10": "Head/VP/GM-Transitions",
+            "#11": "Head/VP/GM-HR",
+            "#12": "Head/VP/GM-Training and Development",
+            "#13": "Head/VP/GM-Technology (IT)/CTO",
+            "#14": "Head/Mgr/GM-Media Buying",
+            "#15": "Head/Mgr/GM-Media Planning",
+            "#16": "Head/VP/GM-Operations",
+            "#17": "Head/VP/GM-SCM/Logistics",
+            "#18": "Head/VP/GM-Admin & Facilities",
+            "#19": "Head/VP/GM-Commercial",
+            "#20": "Head/VP/GM-Mktg",
+            "#21": "Head/VP/GM- MR",
+            "#22": "Head/VP/GM- Purchase/Material Mgmt",
+            "#23": "Head/VP/GM -Accounts",
+            "#24": "Head/VP/GM  -F&B",
+            "#25": "Head/VP/GM-Business Alliances",
+            "#26": "Head/VP/GM-Finance/Audit",
+            "#27": "Head/VP/GM-Investment Banking",
+            "#29": "Head/VP/GM-Private Equity/Hedge Fund/VC",
+            "#30": "Head/VP/GM-Project Finance",
+            "#31": "Head/VP/GM-QA&QC",
+            "#32": "Head/VP/GM-Quality",
+            "#33": "Head/VP/GM-Sales",
+            "#34": "Head/VP/GM-Underwritting",
+            "#35": "Head/VP/GM-Operations",
+            "#36": "Head/VP/GM-Fund Mgmt",
+            "#37": "Head/VP/GM -Credit/Risk",
+            "#38": "Head/VP/GM-Depository Services",
+            "#39": "Head/VP/GM-Legal",
+            "#40": "Head/VP/GM-Production/Manufacturing/Maintenance",
+            "#41": "Head/VP/GM-Tour Mgmt",
+            "#42": "Head/VP/-PR/Corp. Communication",
+            "#43": "Head/VP/GM-Broking",
+            "#44": "Head/VP/GM-CFO/Financial Controller",
+            "#45": "Head/VP/GM-Credit",
+            "#46": "Head/VP/GM-R&D",
+            "#47": "Head/VP/GM-Regulatory Affairs",
+            "#48": "Head/VP/GM-Claims",
+            "#49": "Head/VP/GM-Client Servicing",
+            "#50": "Head/VP/GM-Equity",
+            "#51": "Head/VP/GM-Mergers & Acquisitions",
+            "#52": "Head/VP/GM-Packaging Development",
+            "#53": "Head/VP/GM-Corporate Planning/Strategy",
+            "#54": "Head/VP/GM-Production",
+            "#55": "Head/VP/GM-Treasury",
+            "#56": "Head/VP/GM-Corporate Advisory",
+            "#57": "Head/VP/GM-Domestic Debt",
+            "#58": "Head/VP/GM-Formulations",
+            "#59": "Head/VP/GM-Insurance Operations",
+            "#60": "Head/VP/GM-Offshore Debt",
+            "#61": "Head/VP/GM/National Manager-Sales",
+            "#62": "SBU/Profit Center Head",
+            "#63": "Service Delivery Leader",
+            "#64": "VP/President/Partner",
+            "#65": "Head/VP/GM-Recruitment"
+        },
+        "#44": {
+            "Ticketing/Travel/Documentation": {
+                "#1": "Travel Agent",
+                "#2": "Reservations Exec.",
+                "#3": "Reservations Mgr",
+                "#4": "Tour Mngmt Exec.",
+                "#5": "Tour Mgmt Mgr/Sr. Mgr",
+                "#6": "Operations Exec.",
+                "#7": "BD Mgr",
+                "#8": "Mktg Mgr",
+                "#9": "Branch Mgr",
+                "#10": "Regional Mgr",
+                "#11": "General Mgr",
+                "#12": "Cashier/Billing Mgr",
+                "#13": "Operations Mgr"
+            },
+            "Airline": {
+                "#14": "Cabin Crew",
+                "#15": "Ground Staff",
+                "#16": "Aviation  Engnr",
+                "#17": "Maintenance Engnr",
+                "#29": "Air traffic controller",
+                "#40": "Airline Security Officer",
+                "#38": "Airport Coordinator",
+                "#26": "Cargo Operations / Officer / Loadmaster",
+                "#33": "Co-Pilot / First Officer / Second Officer / Third Officer / Captain",
+                "#39": "Flight Dispatcher",
+                "#34": "Flight Engineer / Air Mechanic",
+                "#25": "Helicopter Pilots",
+                "#28": "Inflight Services / Operations",
+                "#35": "Radio Operator / Radio Engineer / Radar Operator"
+            },
+            "Snr. Mgmt": {
+                "#18": "SBU/Profit Center Head",
+                "#19": "Head/VP/GM-Tour Management",
+                "#20": "CEO/MD/Director"
+            },
+            "Other": {
+                "#21": "Other",
+                "#22": "Fresher",
+                "#23": "Trainee",
+                "#24": "Outside Consultant"
+            }
+        },
+        "#43": {
+            "TV-News/Anchor/Reporter": {
+                "#1": "News Anchor/TV Presenter",
+                "#2": "News Compiler",
+                "#3": "Correspondent",
+                "#4": "Sr/Principal Coresspondent",
+                "#5": "News Editor",
+                "#6": "News/Features Head"
+            },
+            "Production/Technical": {
+                "#7": "Spot Boy",
+                "#8": "Animation/Graphic Artist",
+                "#9": "Stunt Coordinator",
+                "#10": "Wardrobe/Make-Up/Hair Artist",
+                "#11": "AV Editor",
+                "#12": "Visualiser",
+                "#13": "Sound Mixer/Engr",
+                "#14": "Locations Mgr",
+                "#15": "Lighting Technician",
+                "#16": "Special Effects Technician",
+                "#17": "Photographer",
+                "#18": "Camera Man/Technician",
+                "#19": "Choreographer",
+                "#20": "Asst. Editor/Editor",
+                "#21": "Head-Lighting",
+                "#22": "Head-Special Effects",
+                "#23": "Music Director",
+                "#24": "Cinematographer",
+                "#25": "Asst. Director/Director",
+                "#26": "TV Producer",
+                "#27": "Film Producer"
+            },
+            "Other": {
+                "#28": "Other",
+                "#29": "Fresher",
+                "#30": "Trainee"
+            }
+        },
+        "#3": {
+            "Creative": {
+                "#1": "Art Director/Sr Art Director",
+                "#17": "Interaction Designer",
+                "#13": "Product Designer",
+                "#14": "Textile Designer",
+                "#16": "User Experience Designer",
+                "#18": "Visual Merchandiser",
+                "#2": "Visualiser",
+                "#3": "Web Designer",
+                "#4": "Copywriter",
+                "#5": "Graphic Designer",
+                "#15": "Animation Designer"
+            },
+            "Snr. Mgmt": {
+                "#6": "Creative Director",
+                "#7": "National Creative Director/VP-Creative"
+            },
+            "Other": {
+                "#8": "Commercial Artist",
+                "#9": "Other",
+                "#10": "Fresher",
+                "#11": "Trainee"
+            }
+        },
+        "#41": {
+            "#1": "Other"
+        }
+    },
+    "version": "2",
+    "timestamp": 1620498600000
+}
