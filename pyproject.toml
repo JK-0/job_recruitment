@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "job_recruitment"
+version = "0.1.0"
+description = "job recruitment project based on django"
+authors = ["JK <jigneshkotadiya000@yahoo.com>"]
+license = "MIT License"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+Django = "^3.2.9"
+django-autocomplete-light = "^3.8.2"
+django-ses = "^2.3.0"
+psycopg2-binary = "^2.9.1"
+mysqlclient = "^2.0.3"
+django-import-export = "^2.6.1"
+djangorestframework = "^3.12.4"
+
+[tool.poetry.dev-dependencies]
+coverage = "^6.1.1"
+django-cors-headers = "^3.10.0"
+django-debug-toolbar = "^3.2.2"
+python-decouple = "^3.5"
+dj-database-url = "^0.5.0"
+pycodestyle = "^2.8.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

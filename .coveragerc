@@ -1,0 +1,14 @@
+[run]
+branch = True
+omit =
+    venv
+    */migrations/*
+    */__init__.py
+
+source = api,app,c_auth,employer,job,jobseeker,primary_data
+
+[report]
+ignore_errors = True
+
+[html]
+directory = htmlcov
