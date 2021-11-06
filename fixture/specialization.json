@@ -1,0 +1,5268 @@
+[
+  {
+    "model": "primary_data.specialization",
+    "pk": 1,
+    "fields": {
+      "specialization": "Agriculture",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 2,
+    "fields": {
+      "specialization": "Automobile",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 3,
+    "fields": {
+      "specialization": "Aviation",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 4,
+    "fields": {
+      "specialization": "Bio-Chemistry/Bio-Technology",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 5,
+    "fields": {
+      "specialization": "Biomedical",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 6,
+    "fields": {
+      "specialization": "Ceramics",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 7,
+    "fields": {
+      "specialization": "Chemical",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 8,
+    "fields": {
+      "specialization": "Civil",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 9,
+    "fields": {
+      "specialization": "Computers",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 10,
+    "fields": {
+      "specialization": "Electrical",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 11,
+    "fields": {
+      "specialization": "Electronics/Telecommunication",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 12,
+    "fields": {
+      "specialization": "Energy",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 13,
+    "fields": {
+      "specialization": "Environmental",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 14,
+    "fields": {
+      "specialization": "Instrumentation",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 15,
+    "fields": {
+      "specialization": "Marine",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 16,
+    "fields": {
+      "specialization": "Mechanical",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 17,
+    "fields": {
+      "specialization": "Metallurgy",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 18,
+    "fields": {
+      "specialization": "Mineral",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 19,
+    "fields": {
+      "specialization": "Mining",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 20,
+    "fields": {
+      "specialization": "Nuclear",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 21,
+    "fields": {
+      "specialization": "Paint/Oil",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 22,
+    "fields": {
+      "specialization": "Petroleum",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 23,
+    "fields": {
+      "specialization": "Plastics",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 24,
+    "fields": {
+      "specialization": "Production/Industrial",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 25,
+    "fields": {
+      "specialization": "Textile",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 26,
+    "fields": {
+      "specialization": "Other Engineering",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 27,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 26,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 28,
+    "fields": {
+      "specialization": "Commerce",
+      "course_name": 27,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 29,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 27,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 30,
+    "fields": {
+      "specialization": "Agriculture",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 31,
+    "fields": {
+      "specialization": "Anthropology",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 32,
+    "fields": {
+      "specialization": "Bio-Chemistry",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 33,
+    "fields": {
+      "specialization": "Biology",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 34,
+    "fields": {
+      "specialization": "Botany",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 35,
+    "fields": {
+      "specialization": "Chemistry",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 36,
+    "fields": {
+      "specialization": "Computers",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 37,
+    "fields": {
+      "specialization": "Dairy Technology",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 38,
+    "fields": {
+      "specialization": "Electronics",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 39,
+    "fields": {
+      "specialization": "Environmental science",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 40,
+    "fields": {
+      "specialization": "Food Technology",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 41,
+    "fields": {
+      "specialization": "General",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 42,
+    "fields": {
+      "specialization": "Geology",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 43,
+    "fields": {
+      "specialization": "Home science",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 44,
+    "fields": {
+      "specialization": "Hospitality and Hotel Management",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 45,
+    "fields": {
+      "specialization": "Maths",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 46,
+    "fields": {
+      "specialization": "Microbiology",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 47,
+    "fields": {
+      "specialization": "Nursing",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 48,
+    "fields": {
+      "specialization": "Optometry",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 49,
+    "fields": {
+      "specialization": "Physics",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 50,
+    "fields": {
+      "specialization": "Statistics",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 51,
+    "fields": {
+      "specialization": "Zoology",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 52,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 28,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 53,
+    "fields": {
+      "specialization": "Arts & Humanities",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 54,
+    "fields": {
+      "specialization": "Communication",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 55,
+    "fields": {
+      "specialization": "Economics",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 56,
+    "fields": {
+      "specialization": "English",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 57,
+    "fields": {
+      "specialization": "Film",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 58,
+    "fields": {
+      "specialization": "Fine Arts",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 59,
+    "fields": {
+      "specialization": "Hindi",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 60,
+    "fields": {
+      "specialization": "History",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 61,
+    "fields": {
+      "specialization": "Hotel Management",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 62,
+    "fields": {
+      "specialization": "Journalism",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 63,
+    "fields": {
+      "specialization": "Maths",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 64,
+    "fields": {
+      "specialization": "Pass Course",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 65,
+    "fields": {
+      "specialization": "Political Science",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 66,
+    "fields": {
+      "specialization": "PR/Advertising",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 67,
+    "fields": {
+      "specialization": "Psychology",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 68,
+    "fields": {
+      "specialization": "Sanskrit",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 69,
+    "fields": {
+      "specialization": "Sociology",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 70,
+    "fields": {
+      "specialization": "Statistics",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 71,
+    "fields": {
+      "specialization": "Vocational Course",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 72,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 29,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 73,
+    "fields": {
+      "specialization": "Architecture",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 74,
+    "fields": {
+      "specialization": "Chemical",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 75,
+    "fields": {
+      "specialization": "Civil",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 76,
+    "fields": {
+      "specialization": "Computers",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 77,
+    "fields": {
+      "specialization": "Electrical",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 78,
+    "fields": {
+      "specialization": "Electronics/Telecommunication",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 79,
+    "fields": {
+      "specialization": "Engineering",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 80,
+    "fields": {
+      "specialization": "Export/Import",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 81,
+    "fields": {
+      "specialization": "Fashion Designing/Other Designing",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 82,
+    "fields": {
+      "specialization": "Graphic/ Web Designing",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 83,
+    "fields": {
+      "specialization": "Hotel Management",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 84,
+    "fields": {
+      "specialization": "Insurance",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 85,
+    "fields": {
+      "specialization": "Management",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 86,
+    "fields": {
+      "specialization": "Mechanical",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 87,
+    "fields": {
+      "specialization": "Tourism",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 88,
+    "fields": {
+      "specialization": "Visual Arts",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 89,
+    "fields": {
+      "specialization": "Vocational Course",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 90,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 30,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 91,
+    "fields": {
+      "specialization": "Management",
+      "course_name": 31,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 92,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 31,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 93,
+    "fields": {
+      "specialization": "Computers",
+      "course_name": 32,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 94,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 32,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 95,
+    "fields": {
+      "specialization": "Architecture",
+      "course_name": 33,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 96,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 33,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 97,
+    "fields": {
+      "specialization": "Animation Film Design",
+      "course_name": 34,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 98,
+    "fields": {
+      "specialization": "Ceramic  &  Glass Design",
+      "course_name": 34,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 99,
+    "fields": {
+      "specialization": "Exhibition Design",
+      "course_name": 34,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 100,
+    "fields": {
+      "specialization": "Film and Video Communication",
+      "course_name": 34,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 101,
+    "fields": {
+      "specialization": "Furniture Design",
+      "course_name": 34,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 102,
+    "fields": {
+      "specialization": "Graphic Design",
+      "course_name": 34,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 103,
+    "fields": {
+      "specialization": "Product Design",
+      "course_name": 34,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 104,
+    "fields": {
+      "specialization": "Textile Design",
+      "course_name": 34,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 105,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 34,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 106,
+    "fields": {
+      "specialization": "Education",
+      "course_name": 35,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 107,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 35,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 108,
+    "fields": {
+      "specialization": "Elementary Education",
+      "course_name": 36,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 109,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 36,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 110,
+    "fields": {
+      "specialization": "Physical Education",
+      "course_name": 37,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 111,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 37,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 112,
+    "fields": {
+      "specialization": "Pharmacy",
+      "course_name": 38,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 113,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 38,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 114,
+    "fields": {
+      "specialization": "Unani Medicine",
+      "course_name": 39,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 115,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 39,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 116,
+    "fields": {
+      "specialization": "Ayurveda",
+      "course_name": 40,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 117,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 40,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 118,
+    "fields": {
+      "specialization": "Dentistry",
+      "course_name": 41,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 119,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 41,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 120,
+    "fields": {
+      "specialization": "Art History",
+      "course_name": 42,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 121,
+    "fields": {
+      "specialization": "Painting",
+      "course_name": 42,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 122,
+    "fields": {
+      "specialization": "Printmaking",
+      "course_name": 42,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 123,
+    "fields": {
+      "specialization": "Sculpture",
+      "course_name": 42,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 124,
+    "fields": {
+      "specialization": "Visual Communication",
+      "course_name": 42,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 125,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 42,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 126,
+    "fields": {
+      "specialization": "Hotel Management",
+      "course_name": 43,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 127,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 43,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 128,
+    "fields": {
+      "specialization": "Homeopathy",
+      "course_name": 44,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 129,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 44,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 130,
+    "fields": {
+      "specialization": "Veterinary Science",
+      "course_name": 45,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 131,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 45,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 132,
+    "fields": {
+      "specialization": "Law",
+      "course_name": 46,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 133,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 46,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 134,
+    "fields": {
+      "specialization": "Medicine",
+      "course_name": 47,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 135,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 47,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 136,
+    "fields": {
+      "specialization": "Aerospace & Mechanical Engineering",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 137,
+    "fields": {
+      "specialization": "Agriculture",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 138,
+    "fields": {
+      "specialization": "Anthropology",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 139,
+    "fields": {
+      "specialization": "Astronautical Engineering",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 140,
+    "fields": {
+      "specialization": "Bio-Chemistry",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 141,
+    "fields": {
+      "specialization": "Biology",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 142,
+    "fields": {
+      "specialization": "Biotechnology",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 143,
+    "fields": {
+      "specialization": "Botany",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 144,
+    "fields": {
+      "specialization": "Chemical Engineering & Materials Science",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 145,
+    "fields": {
+      "specialization": "Chemistry",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 146,
+    "fields": {
+      "specialization": "Civil & Environmental Engineering",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 147,
+    "fields": {
+      "specialization": "Computers",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 148,
+    "fields": {
+      "specialization": "Cyber Security Engineering",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 149,
+    "fields": {
+      "specialization": "Dairy Technology",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 150,
+    "fields": {
+      "specialization": "Data Informatics",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 151,
+    "fields": {
+      "specialization": "Electrical Engineering",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 152,
+    "fields": {
+      "specialization": "Electronics",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 153,
+    "fields": {
+      "specialization": "Electronics & Embedded Technology",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 154,
+    "fields": {
+      "specialization": "Environmental science",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 155,
+    "fields": {
+      "specialization": "Food Technology",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 156,
+    "fields": {
+      "specialization": "Geology",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 157,
+    "fields": {
+      "specialization": "Home science",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 158,
+    "fields": {
+      "specialization": "Hospitality Administration",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 159,
+    "fields": {
+      "specialization": "Industrial & Systems Engineering",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 160,
+    "fields": {
+      "specialization": "Marine Engineering",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 161,
+    "fields": {
+      "specialization": "Maths",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 162,
+    "fields": {
+      "specialization": "Mechanical Engineering",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 163,
+    "fields": {
+      "specialization": "Mechatronics",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 164,
+    "fields": {
+      "specialization": "Microbiology",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 165,
+    "fields": {
+      "specialization": "Nursing",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 166,
+    "fields": {
+      "specialization": "Optometry",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 167,
+    "fields": {
+      "specialization": "Organic Chemistry",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 168,
+    "fields": {
+      "specialization": "Petroleum Engineering",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 169,
+    "fields": {
+      "specialization": "Physics",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 170,
+    "fields": {
+      "specialization": "Statistics",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 171,
+    "fields": {
+      "specialization": "Systems Architecting and Engineering",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 172,
+    "fields": {
+      "specialization": "Veterinary Science",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 173,
+    "fields": {
+      "specialization": "Zoology",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 174,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 3,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 175,
+    "fields": {
+      "specialization": "Advertising/Mass Communication",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 176,
+    "fields": {
+      "specialization": "Finance",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 177,
+    "fields": {
+      "specialization": "Hospitality Management",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 178,
+    "fields": {
+      "specialization": "HR/Industrial Relations",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 179,
+    "fields": {
+      "specialization": "Information Technology",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 180,
+    "fields": {
+      "specialization": "International Business",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 181,
+    "fields": {
+      "specialization": "Marketing",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 182,
+    "fields": {
+      "specialization": "Operations",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 183,
+    "fields": {
+      "specialization": "Other Management",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 184,
+    "fields": {
+      "specialization": "Systems",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 185,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 4,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 186,
+    "fields": {
+      "specialization": "Anthropology",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 187,
+    "fields": {
+      "specialization": "Arts & Humanities",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 188,
+    "fields": {
+      "specialization": "Communication",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 189,
+    "fields": {
+      "specialization": "Economics",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 190,
+    "fields": {
+      "specialization": "English",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 191,
+    "fields": {
+      "specialization": "Film",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 192,
+    "fields": {
+      "specialization": "Fine arts",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 193,
+    "fields": {
+      "specialization": "Hindi",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 194,
+    "fields": {
+      "specialization": "History",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 195,
+    "fields": {
+      "specialization": "Journalism",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 196,
+    "fields": {
+      "specialization": "Maths",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 197,
+    "fields": {
+      "specialization": "Political Science",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 198,
+    "fields": {
+      "specialization": "PR/ Advertising",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 199,
+    "fields": {
+      "specialization": "Psychology",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 200,
+    "fields": {
+      "specialization": "Sanskrit",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 201,
+    "fields": {
+      "specialization": "Sociology",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 202,
+    "fields": {
+      "specialization": "Statistics",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 203,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 5,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 204,
+    "fields": {
+      "specialization": "Commerce",
+      "course_name": 6,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 205,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 6,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 206,
+    "fields": {
+      "specialization": "Computers",
+      "course_name": 7,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 207,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 7,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 208,
+    "fields": {
+      "specialization": "Agriculture",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 209,
+    "fields": {
+      "specialization": "Automobile",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 210,
+    "fields": {
+      "specialization": "Aviation",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 211,
+    "fields": {
+      "specialization": "Bio-Chemistry/Bio-Technology",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 212,
+    "fields": {
+      "specialization": "Biomedical",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 213,
+    "fields": {
+      "specialization": "Ceramics",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 214,
+    "fields": {
+      "specialization": "Chemical",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 215,
+    "fields": {
+      "specialization": "Civil",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 216,
+    "fields": {
+      "specialization": "Computers",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 217,
+    "fields": {
+      "specialization": "Electrical",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 218,
+    "fields": {
+      "specialization": "Electronics/Telecommunication",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 219,
+    "fields": {
+      "specialization": "Energy",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 220,
+    "fields": {
+      "specialization": "Environmental",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 221,
+    "fields": {
+      "specialization": "Instrumentation",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 222,
+    "fields": {
+      "specialization": "Marine",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 223,
+    "fields": {
+      "specialization": "Mechanical",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 224,
+    "fields": {
+      "specialization": "Metallurgy",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 225,
+    "fields": {
+      "specialization": "Mineral",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 226,
+    "fields": {
+      "specialization": "Mining",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 227,
+    "fields": {
+      "specialization": "Nuclear",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 228,
+    "fields": {
+      "specialization": "Other Engineering",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 229,
+    "fields": {
+      "specialization": "Paint/Oil",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 230,
+    "fields": {
+      "specialization": "Petroleum",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 231,
+    "fields": {
+      "specialization": "Plastics",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 232,
+    "fields": {
+      "specialization": "Production/Industrial",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 233,
+    "fields": {
+      "specialization": "Textile",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 234,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 8,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 235,
+    "fields": {
+      "specialization": "Journalism/Mass Communication",
+      "course_name": 9,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 236,
+    "fields": {
+      "specialization": "Management",
+      "course_name": 9,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 237,
+    "fields": {
+      "specialization": "PR/Advertising",
+      "course_name": 9,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 238,
+    "fields": {
+      "specialization": "Tourism",
+      "course_name": 9,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 239,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 9,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 240,
+    "fields": {
+      "specialization": "CA",
+      "course_name": 10,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 241,
+    "fields": {
+      "specialization": "First Attempt",
+      "course_name": 10,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 242,
+    "fields": {
+      "specialization": "Pursuing",
+      "course_name": 10,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 243,
+    "fields": {
+      "specialization": "Second Attempt",
+      "course_name": 10,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 244,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 10,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 245,
+    "fields": {
+      "specialization": "CS",
+      "course_name": 11,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 246,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 11,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 247,
+    "fields": {
+      "specialization": "Cardiac -Anaes.",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 248,
+    "fields": {
+      "specialization": "Cardiology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 249,
+    "fields": {
+      "specialization": "Child & Adolescent Psychiatry",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 250,
+    "fields": {
+      "specialization": "Clinical Haematology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 251,
+    "fields": {
+      "specialization": "Clinical Immunology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 252,
+    "fields": {
+      "specialization": "Clinical Pharmacology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 253,
+    "fields": {
+      "specialization": "Critical Care Medicine",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 254,
+    "fields": {
+      "specialization": "Endocrinology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 255,
+    "fields": {
+      "specialization": "Gastroenterology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 256,
+    "fields": {
+      "specialization": "Geriatric Mental Health",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 257,
+    "fields": {
+      "specialization": "Haematology Pathology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 258,
+    "fields": {
+      "specialization": "Hepatology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 259,
+    "fields": {
+      "specialization": "Immunology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 260,
+    "fields": {
+      "specialization": "Infectious Diseases",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 261,
+    "fields": {
+      "specialization": "Medical Genetics",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 262,
+    "fields": {
+      "specialization": "Neonatology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 263,
+    "fields": {
+      "specialization": "Nephrology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 264,
+    "fields": {
+      "specialization": "Neuro Anaesthesia",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 265,
+    "fields": {
+      "specialization": "Neuro Radiology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 266,
+    "fields": {
+      "specialization": "Neurology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 267,
+    "fields": {
+      "specialization": "Oncology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 268,
+    "fields": {
+      "specialization": "Organ Transplant Anaesthesia & Critical",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 269,
+    "fields": {
+      "specialization": "Care",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 270,
+    "fields": {
+      "specialization": "Pediatric Anaesthesia",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 271,
+    "fields": {
+      "specialization": "Pediatric Cardiology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 272,
+    "fields": {
+      "specialization": "Pediatric Gastroenterology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 273,
+    "fields": {
+      "specialization": "Pediatric Hepatology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 274,
+    "fields": {
+      "specialization": "Pediatric Nephrology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 275,
+    "fields": {
+      "specialization": "Pediatric Oncology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 276,
+    "fields": {
+      "specialization": "Pulmonary Med. & Critical Care Med.",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 277,
+    "fields": {
+      "specialization": "Pulmonary Medicine",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 278,
+    "fields": {
+      "specialization": "Reproductive Medicine",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 279,
+    "fields": {
+      "specialization": "Rheumatology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 280,
+    "fields": {
+      "specialization": "Virology",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 281,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 12,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 282,
+    "fields": {
+      "specialization": "ICWA (CMA)",
+      "course_name": 13,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 283,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 13,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 284,
+    "fields": {
+      "specialization": "Law",
+      "course_name": 14,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 285,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 14,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 286,
+    "fields": {
+      "specialization": "Architecture",
+      "course_name": 15,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 287,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 15,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 288,
+    "fields": {
+      "specialization": "Burns & Plastic Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 289,
+    "fields": {
+      "specialization": "Cardio Thoracic and Vascular Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 290,
+    "fields": {
+      "specialization": "Cardio Thoracic Surgery ",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 291,
+    "fields": {
+      "specialization": "Endocrine Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 292,
+    "fields": {
+      "specialization": "Gynaecological Oncology",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 293,
+    "fields": {
+      "specialization": "Hand & Micro Surgery ",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 294,
+    "fields": {
+      "specialization": "Hand Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 295,
+    "fields": {
+      "specialization": "Hepato Pancreato Biliary Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 296,
+    "fields": {
+      "specialization": "Neuro Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 297,
+    "fields": {
+      "specialization": "Oncology",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 298,
+    "fields": {
+      "specialization": "Pediatric Cardio-Thoracic Vascular Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 299,
+    "fields": {
+      "specialization": "Pediatric Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 300,
+    "fields": {
+      "specialization": "Plastic & Reconstructive Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 301,
+    "fields": {
+      "specialization": "Plastic Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 302,
+    "fields": {
+      "specialization": "Surgical Gastroenterology/G.I. Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 303,
+    "fields": {
+      "specialization": "Surgical Oncology",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 304,
+    "fields": {
+      "specialization": "Thoracic Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 305,
+    "fields": {
+      "specialization": "Urology",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 306,
+    "fields": {
+      "specialization": "Urology/Genito -Urinary Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 307,
+    "fields": {
+      "specialization": "Vascular Surgery",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 308,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 16,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 309,
+    "fields": {
+      "specialization": "Animation Film Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 310,
+    "fields": {
+      "specialization": "Apparel Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 311,
+    "fields": {
+      "specialization": "Ceramic & Glass Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 312,
+    "fields": {
+      "specialization": "Design for Retail Experience",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 313,
+    "fields": {
+      "specialization": "Digital Game Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 314,
+    "fields": {
+      "specialization": "Film and Video Communication",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 315,
+    "fields": {
+      "specialization": "Furniture Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 316,
+    "fields": {
+      "specialization": "Graphic Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 317,
+    "fields": {
+      "specialization": "Information Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 318,
+    "fields": {
+      "specialization": "Interaction Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 319,
+    "fields": {
+      "specialization": "Lifestyle Accessory Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 320,
+    "fields": {
+      "specialization": "New Media Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 321,
+    "fields": {
+      "specialization": "Photography Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 322,
+    "fields": {
+      "specialization": "Product Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 323,
+    "fields": {
+      "specialization": "Strategic Design Management",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 324,
+    "fields": {
+      "specialization": "Textile Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 325,
+    "fields": {
+      "specialization": "Toy & Game Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 326,
+    "fields": {
+      "specialization": "Transportation & Automobile Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 327,
+    "fields": {
+      "specialization": "Universal Design",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 328,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 17,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 329,
+    "fields": {
+      "specialization": "Education",
+      "course_name": 18,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 330,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 18,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 331,
+    "fields": {
+      "specialization": "Pharmacy",
+      "course_name": 19,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 332,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 19,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 333,
+    "fields": {
+      "specialization": "Computers and Management",
+      "course_name": 20,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 334,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 20,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 335,
+    "fields": {
+      "specialization": "Dentistry",
+      "course_name": 21,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 336,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 21,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 337,
+    "fields": {
+      "specialization": "Printmaking",
+      "course_name": 22,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 338,
+    "fields": {
+      "specialization": "Sculpture",
+      "course_name": 22,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 339,
+    "fields": {
+      "specialization": "Visual Communication",
+      "course_name": 22,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 340,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 22,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 341,
+    "fields": {
+      "specialization": "Anaesthesiology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 342,
+    "fields": {
+      "specialization": "Anatomy",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 343,
+    "fields": {
+      "specialization": "Aviation Medicine/Aerospace Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 344,
+    "fields": {
+      "specialization": "Ayurveda",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 345,
+    "fields": {
+      "specialization": "Bio-Chemistry",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 346,
+    "fields": {
+      "specialization": "Bio-Physics",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 347,
+    "fields": {
+      "specialization": "Blood Banking & Immuno. Haem./Imm. Haem. & Blood Trans.",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 348,
+    "fields": {
+      "specialization": "Cardiology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 349,
+    "fields": {
+      "specialization": "CCM",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 350,
+    "fields": {
+      "specialization": "Dermatology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 351,
+    "fields": {
+      "specialization": "Emergency Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 352,
+    "fields": {
+      "specialization": "ENT",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 353,
+    "fields": {
+      "specialization": "Forensic Medicine/Forensic Medicine & Toxicology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 354,
+    "fields": {
+      "specialization": "General Practitioner",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 355,
+    "fields": {
+      "specialization": "General Surgery",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 356,
+    "fields": {
+      "specialization": "Geriatrics",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 357,
+    "fields": {
+      "specialization": "Gyneocology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 358,
+    "fields": {
+      "specialization": "Health Administration",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 359,
+    "fields": {
+      "specialization": "Hepatology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 360,
+    "fields": {
+      "specialization": "Hospital Administration",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 361,
+    "fields": {
+      "specialization": "Immunology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 362,
+    "fields": {
+      "specialization": "Lab Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 363,
+    "fields": {
+      "specialization": "Maternity & Child Health",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 364,
+    "fields": {
+      "specialization": "Medical Genetics",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 365,
+    "fields": {
+      "specialization": "Microbiology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 366,
+    "fields": {
+      "specialization": "Neonatal",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 367,
+    "fields": {
+      "specialization": "Nephrology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 368,
+    "fields": {
+      "specialization": "Neuro Surgery",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 369,
+    "fields": {
+      "specialization": "Nuclear Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 370,
+    "fields": {
+      "specialization": "Obstretrics",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 371,
+    "fields": {
+      "specialization": "Oncology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 372,
+    "fields": {
+      "specialization": "Opthalmology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 373,
+    "fields": {
+      "specialization": "Orthopaedic",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 374,
+    "fields": {
+      "specialization": "P.S.M",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 375,
+    "fields": {
+      "specialization": "Palliative Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 376,
+    "fields": {
+      "specialization": "Pathology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 377,
+    "fields": {
+      "specialization": "Pediatrics",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 378,
+    "fields": {
+      "specialization": "Pharmacology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 379,
+    "fields": {
+      "specialization": "Physical Medicine & Rehabilitation",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 380,
+    "fields": {
+      "specialization": "Psychiatry",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 381,
+    "fields": {
+      "specialization": "psychology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 382,
+    "fields": {
+      "specialization": "Public Health (Epidemiology)",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 383,
+    "fields": {
+      "specialization": "Pulmonary Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 384,
+    "fields": {
+      "specialization": "R&D",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 385,
+    "fields": {
+      "specialization": "Radiology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 386,
+    "fields": {
+      "specialization": "Radiotherapy",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 387,
+    "fields": {
+      "specialization": "Rheumatology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 388,
+    "fields": {
+      "specialization": "Social & Preventive Medicine / Community",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 389,
+    "fields": {
+      "specialization": "Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 390,
+    "fields": {
+      "specialization": "Sports Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 391,
+    "fields": {
+      "specialization": "Thoracic Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 392,
+    "fields": {
+      "specialization": "Traumatology and Surgery",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 393,
+    "fields": {
+      "specialization": "Tropical Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 394,
+    "fields": {
+      "specialization": "Tuberculosis & Respiratory Diseases / Pulmonary Medicine",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 395,
+    "fields": {
+      "specialization": "Unani",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 396,
+    "fields": {
+      "specialization": "Urology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 397,
+    "fields": {
+      "specialization": "Venereology",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 398,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 23,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 399,
+    "fields": {
+      "specialization": "Veterinary Science",
+      "course_name": 24,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 400,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 24,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 401,
+    "fields": {
+      "specialization": "Chemical",
+      "course_name": 25,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 402,
+    "fields": {
+      "specialization": "Civil",
+      "course_name": 25,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 403,
+    "fields": {
+      "specialization": "Computers",
+      "course_name": 25,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 404,
+    "fields": {
+      "specialization": "Electrical",
+      "course_name": 25,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 405,
+    "fields": {
+      "specialization": "Electronics",
+      "course_name": 25,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 406,
+    "fields": {
+      "specialization": "Mechanical",
+      "course_name": 25,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 407,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 25,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 408,
+    "fields": {
+      "specialization": "Advertising/Mass Communication",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 409,
+    "fields": {
+      "specialization": "Agriculture",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 410,
+    "fields": {
+      "specialization": "Anthropology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 411,
+    "fields": {
+      "specialization": "Architecture",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 412,
+    "fields": {
+      "specialization": "Arts & Humanities",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 413,
+    "fields": {
+      "specialization": "Astrophysics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 414,
+    "fields": {
+      "specialization": "Automobile",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 415,
+    "fields": {
+      "specialization": "Aviation",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 416,
+    "fields": {
+      "specialization": "Bio-Chemistry/Bio-Technology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 417,
+    "fields": {
+      "specialization": "Biomedical",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 418,
+    "fields": {
+      "specialization": "Biophysics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 419,
+    "fields": {
+      "specialization": "Biotechnology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 420,
+    "fields": {
+      "specialization": "Botany",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 421,
+    "fields": {
+      "specialization": "Ceramics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 422,
+    "fields": {
+      "specialization": "Chemical",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 423,
+    "fields": {
+      "specialization": "Chemistry",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 424,
+    "fields": {
+      "specialization": "Civil",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 425,
+    "fields": {
+      "specialization": "Commerce",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 426,
+    "fields": {
+      "specialization": "Communication",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 427,
+    "fields": {
+      "specialization": "Computers",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 428,
+    "fields": {
+      "specialization": "Dairy Technology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 429,
+    "fields": {
+      "specialization": "Dermatology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 430,
+    "fields": {
+      "specialization": "Economics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 431,
+    "fields": {
+      "specialization": "Education",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 432,
+    "fields": {
+      "specialization": "Electrical",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 433,
+    "fields": {
+      "specialization": "Electronics/Telecommunication",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 434,
+    "fields": {
+      "specialization": "Energy",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 435,
+    "fields": {
+      "specialization": "ENT",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 436,
+    "fields": {
+      "specialization": "Environmental",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 437,
+    "fields": {
+      "specialization": "Fashion Designing/Other Designing",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 438,
+    "fields": {
+      "specialization": "Film",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 439,
+    "fields": {
+      "specialization": "Finance",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 440,
+    "fields": {
+      "specialization": "Fine arts",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 441,
+    "fields": {
+      "specialization": "Food Technology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 442,
+    "fields": {
+      "specialization": "Genetics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 443,
+    "fields": {
+      "specialization": "History",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 444,
+    "fields": {
+      "specialization": "Home Science",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 445,
+    "fields": {
+      "specialization": "Hotel Management",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 446,
+    "fields": {
+      "specialization": "HR/Industrial Relations",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 447,
+    "fields": {
+      "specialization": "Immunology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 448,
+    "fields": {
+      "specialization": "Instrumentation",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 449,
+    "fields": {
+      "specialization": "International Business",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 450,
+    "fields": {
+      "specialization": "Journalism",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 451,
+    "fields": {
+      "specialization": "Law",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 452,
+    "fields": {
+      "specialization": "Linguistics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 453,
+    "fields": {
+      "specialization": "Literature",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 454,
+    "fields": {
+      "specialization": "Marine",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 455,
+    "fields": {
+      "specialization": "Marketing",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 456,
+    "fields": {
+      "specialization": "Maths",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 457,
+    "fields": {
+      "specialization": "Mechanical",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 458,
+    "fields": {
+      "specialization": "Medicine",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 459,
+    "fields": {
+      "specialization": "Metallurgy",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 460,
+    "fields": {
+      "specialization": "Microbiology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 461,
+    "fields": {
+      "specialization": "Mineral",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 462,
+    "fields": {
+      "specialization": "Mining",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 463,
+    "fields": {
+      "specialization": "Music",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 464,
+    "fields": {
+      "specialization": "Neonatal",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 465,
+    "fields": {
+      "specialization": "Nuclear",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 466,
+    "fields": {
+      "specialization": "Nursing",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 467,
+    "fields": {
+      "specialization": "Obstetrics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 468,
+    "fields": {
+      "specialization": "Other Arts",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 469,
+    "fields": {
+      "specialization": "Other Doctorate",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 470,
+    "fields": {
+      "specialization": "Other Engineering",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 471,
+    "fields": {
+      "specialization": "Other Management",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 472,
+    "fields": {
+      "specialization": "Other Science",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 473,
+    "fields": {
+      "specialization": "Paint/Oil",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 474,
+    "fields": {
+      "specialization": "Pathology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 475,
+    "fields": {
+      "specialization": "Pediatrics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 476,
+    "fields": {
+      "specialization": "Petroleum",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 477,
+    "fields": {
+      "specialization": "Pharmacy",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 478,
+    "fields": {
+      "specialization": "Philosophy",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 479,
+    "fields": {
+      "specialization": "Physical Education",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 480,
+    "fields": {
+      "specialization": "Physics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 481,
+    "fields": {
+      "specialization": "Plastics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 482,
+    "fields": {
+      "specialization": "Political Science",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 483,
+    "fields": {
+      "specialization": "Production/Industrial",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 484,
+    "fields": {
+      "specialization": "Psychiatry",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 485,
+    "fields": {
+      "specialization": "Psychology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 486,
+    "fields": {
+      "specialization": "Radiology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 487,
+    "fields": {
+      "specialization": "Rheumatology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 488,
+    "fields": {
+      "specialization": "Sanskrit",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 489,
+    "fields": {
+      "specialization": "Sociology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 490,
+    "fields": {
+      "specialization": "Special Education",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 491,
+    "fields": {
+      "specialization": "Statistics",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 492,
+    "fields": {
+      "specialization": "Systems",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 493,
+    "fields": {
+      "specialization": "Textile",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 494,
+    "fields": {
+      "specialization": "Vocational Courses",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 495,
+    "fields": {
+      "specialization": "Zoology",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 496,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 1,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 497,
+    "fields": {
+      "specialization": "Advertising/Mass Communication",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 498,
+    "fields": {
+      "specialization": "Agriculture",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 499,
+    "fields": {
+      "specialization": "Anthropology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 500,
+    "fields": {
+      "specialization": "Architecture",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 501,
+    "fields": {
+      "specialization": "Arts & Humanities",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 502,
+    "fields": {
+      "specialization": "Astrophysics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 503,
+    "fields": {
+      "specialization": "Automobile",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 504,
+    "fields": {
+      "specialization": "Aviation",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 505,
+    "fields": {
+      "specialization": "Bio-Chemistry/Bio-TechnologyBiomedical",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 506,
+    "fields": {
+      "specialization": "Biophysics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 507,
+    "fields": {
+      "specialization": "Biotechnology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 508,
+    "fields": {
+      "specialization": "Botany",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 509,
+    "fields": {
+      "specialization": "Ceramics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 510,
+    "fields": {
+      "specialization": "Chemical",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 511,
+    "fields": {
+      "specialization": "Chemistry",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 512,
+    "fields": {
+      "specialization": "Civil",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 513,
+    "fields": {
+      "specialization": "Commerce",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 514,
+    "fields": {
+      "specialization": "Communication",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 515,
+    "fields": {
+      "specialization": "Computers",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 516,
+    "fields": {
+      "specialization": "Dairy TechnologyDermatology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 517,
+    "fields": {
+      "specialization": "Economics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 518,
+    "fields": {
+      "specialization": "Education",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 519,
+    "fields": {
+      "specialization": "Electrical",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 520,
+    "fields": {
+      "specialization": "Electronics/TelecommunicationEnergy",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 521,
+    "fields": {
+      "specialization": "ENT",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 522,
+    "fields": {
+      "specialization": "Environmental",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 523,
+    "fields": {
+      "specialization": "Fashion Designing/Other Designing",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 524,
+    "fields": {
+      "specialization": "Film",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 525,
+    "fields": {
+      "specialization": "Finance",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 526,
+    "fields": {
+      "specialization": "Fine arts",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 527,
+    "fields": {
+      "specialization": "Food Technology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 528,
+    "fields": {
+      "specialization": "Genetics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 529,
+    "fields": {
+      "specialization": "History",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 530,
+    "fields": {
+      "specialization": "Home Science",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 531,
+    "fields": {
+      "specialization": "Hotel Management",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 532,
+    "fields": {
+      "specialization": "HR/Industrial Relations",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 533,
+    "fields": {
+      "specialization": "Immunology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 534,
+    "fields": {
+      "specialization": "Instrumentation",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 535,
+    "fields": {
+      "specialization": "International Business",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 536,
+    "fields": {
+      "specialization": "Journalism",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 537,
+    "fields": {
+      "specialization": "Law",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 538,
+    "fields": {
+      "specialization": "Linguistics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 539,
+    "fields": {
+      "specialization": "Literature",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 540,
+    "fields": {
+      "specialization": "Marine",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 541,
+    "fields": {
+      "specialization": "Marketing",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 542,
+    "fields": {
+      "specialization": "Maths",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 543,
+    "fields": {
+      "specialization": "Mechanical",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 544,
+    "fields": {
+      "specialization": "Medicine",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 545,
+    "fields": {
+      "specialization": "Metallurgy",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 546,
+    "fields": {
+      "specialization": "Microbiology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 547,
+    "fields": {
+      "specialization": "Mineral",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 548,
+    "fields": {
+      "specialization": "Mining",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 549,
+    "fields": {
+      "specialization": "Music",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 550,
+    "fields": {
+      "specialization": "Neonatal",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 551,
+    "fields": {
+      "specialization": "Nuclear",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 552,
+    "fields": {
+      "specialization": "Nursing",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 553,
+    "fields": {
+      "specialization": "Obstetrics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 554,
+    "fields": {
+      "specialization": "Other Arts",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 555,
+    "fields": {
+      "specialization": "Other Doctorate",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 556,
+    "fields": {
+      "specialization": "Other Engineering",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 557,
+    "fields": {
+      "specialization": "Other Management",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 558,
+    "fields": {
+      "specialization": "Other Science",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 559,
+    "fields": {
+      "specialization": "Paint/Oil",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 560,
+    "fields": {
+      "specialization": "Pathology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 561,
+    "fields": {
+      "specialization": "Pediatrics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 562,
+    "fields": {
+      "specialization": "Petroleum",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 563,
+    "fields": {
+      "specialization": "Pharmacy",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 564,
+    "fields": {
+      "specialization": "Philosophy",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 565,
+    "fields": {
+      "specialization": "Physical Education",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 566,
+    "fields": {
+      "specialization": "Physics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 567,
+    "fields": {
+      "specialization": "Plastics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 568,
+    "fields": {
+      "specialization": "Political Science",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 569,
+    "fields": {
+      "specialization": "Production/Industrial",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 570,
+    "fields": {
+      "specialization": "Psychiatry",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 571,
+    "fields": {
+      "specialization": "Psychology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 572,
+    "fields": {
+      "specialization": "Radiology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 573,
+    "fields": {
+      "specialization": "Rheumatology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 574,
+    "fields": {
+      "specialization": "Sanskrit",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 575,
+    "fields": {
+      "specialization": "Sociology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 576,
+    "fields": {
+      "specialization": "Special Education",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 577,
+    "fields": {
+      "specialization": "Statistics",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 578,
+    "fields": {
+      "specialization": "Systems",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 579,
+    "fields": {
+      "specialization": "Textile",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 580,
+    "fields": {
+      "specialization": "Vocational Courses",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 581,
+    "fields": {
+      "specialization": "Zoology",
+      "course_name": 2,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 582,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 2,
+      "verified": true
+    }
+  }
+  ,
+  {
+    "model": "primary_data.specialization",
+    "pk": 583,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 48,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 584,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 49,
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.specialization",
+    "pk": 585,
+    "fields": {
+      "specialization": "Other",
+      "course_name": 50,
+      "verified": true
+    }
+  }
+]

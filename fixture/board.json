@@ -1,0 +1,263 @@
+[
+  {
+    "model": "primary_data.board",
+    "pk": 1,
+    "fields": {
+      "board_name": "CBSE",
+      "board_type": "All India",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 2,
+    "fields": {
+      "board_name": "CISCE(ICSE/ISC)",
+      "board_type": "All India",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 3,
+    "fields": {
+      "board_name": "Diploma",
+      "board_type": "All India",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 4,
+    "fields": {
+      "board_name": "National Open School",
+      "board_type": "All India",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 5,
+    "fields": {
+      "board_name": "IB(International Baccalaureate)",
+      "board_type": "All India",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 6,
+    "fields": {
+      "board_name": "Andhra Pradesh",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 7,
+    "fields": {
+      "board_name": "Assam",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 8,
+    "fields": {
+      "board_name": "Bihar",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 9,
+    "fields": {
+      "board_name": "Goa",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 10,
+    "fields": {
+      "board_name": "Gujarat",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 11,
+    "fields": {
+      "board_name": "Haryana",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 12,
+    "fields": {
+      "board_name": "Himachal Pradesh",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 13,
+    "fields": {
+      "board_name": "J & K",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 14,
+    "fields": {
+      "board_name": "Karnataka",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 15,
+    "fields": {
+      "board_name": "Kerala",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 16,
+    "fields": {
+      "board_name": "Maharashtra",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 17,
+    "fields": {
+      "board_name": "Madhya Pradesh",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 18,
+    "fields": {
+      "board_name": "Manipur",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 19,
+    "fields": {
+      "board_name": "Meghalaya",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 20,
+    "fields": {
+      "board_name": "Mizoram",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 21,
+    "fields": {
+      "board_name": "Nagaland",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 22,
+    "fields": {
+      "board_name": "Orissa",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 23,
+    "fields": {
+      "board_name": "Punjab",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 24,
+    "fields": {
+      "board_name": "Rajasthan",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 25,
+    "fields": {
+      "board_name": "Tamil Nadu",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 26,
+    "fields": {
+      "board_name": "Tripura",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 27,
+    "fields": {
+      "board_name": "Uttar Pradesh",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 28,
+    "fields": {
+      "board_name": "West Bengal",
+      "board_type": "State Board",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.board",
+    "pk": 29,
+    "fields": {
+      "board_name": "Other",
+      "board_type": "State Board",
+      "verified": true
+    }
+  }
+]

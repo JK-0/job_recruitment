@@ -1,0 +1,7722 @@
+[
+  {
+    "model": "primary_data.designation",
+    "pk": 1,
+    "fields": {
+      "designation": "accountant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 2,
+    "fields": {
+      "designation": "actor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 3,
+    "fields": {
+      "designation": "actuary",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 4,
+    "fields": {
+      "designation": "adhesive bonding machine tender",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 5,
+    "fields": {
+      "designation": "adjudicator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 6,
+    "fields": {
+      "designation": "administrative assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 7,
+    "fields": {
+      "designation": "administrative services manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 8,
+    "fields": {
+      "designation": "adult education teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 9,
+    "fields": {
+      "designation": "advertising manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 10,
+    "fields": {
+      "designation": "advertising sales agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 11,
+    "fields": {
+      "designation": "aerobics instructor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 12,
+    "fields": {
+      "designation": "aerospace engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 13,
+    "fields": {
+      "designation": "aerospace engineering technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 14,
+    "fields": {
+      "designation": "agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 15,
+    "fields": {
+      "designation": "agricultural engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 16,
+    "fields": {
+      "designation": "agricultural equipment operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 17,
+    "fields": {
+      "designation": "agricultural grader",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 18,
+    "fields": {
+      "designation": "agricultural inspector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 19,
+    "fields": {
+      "designation": "agricultural manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 20,
+    "fields": {
+      "designation": "agricultural sciences teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 21,
+    "fields": {
+      "designation": "agricultural sorter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 22,
+    "fields": {
+      "designation": "agricultural technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 23,
+    "fields": {
+      "designation": "agricultural worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 24,
+    "fields": {
+      "designation": "air conditioning installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 25,
+    "fields": {
+      "designation": "air conditioning mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 26,
+    "fields": {
+      "designation": "air traffic controller",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 27,
+    "fields": {
+      "designation": "aircraft cargo handling supervisor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 28,
+    "fields": {
+      "designation": "aircraft mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 29,
+    "fields": {
+      "designation": "aircraft service technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 30,
+    "fields": {
+      "designation": "airline copilot",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 31,
+    "fields": {
+      "designation": "airline pilot",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 32,
+    "fields": {
+      "designation": "ambulance dispatcher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 33,
+    "fields": {
+      "designation": "ambulance driver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 34,
+    "fields": {
+      "designation": "amusement machine servicer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 35,
+    "fields": {
+      "designation": "anesthesiologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 36,
+    "fields": {
+      "designation": "animal breeder",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 37,
+    "fields": {
+      "designation": "animal control worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 38,
+    "fields": {
+      "designation": "animal scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 39,
+    "fields": {
+      "designation": "animal trainer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 40,
+    "fields": {
+      "designation": "animator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 41,
+    "fields": {
+      "designation": "answering service operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 42,
+    "fields": {
+      "designation": "anthropologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 43,
+    "fields": {
+      "designation": "apparel patternmaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 44,
+    "fields": {
+      "designation": "apparel worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 45,
+    "fields": {
+      "designation": "arbitrator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 46,
+    "fields": {
+      "designation": "archeologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 47,
+    "fields": {
+      "designation": "architect",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 48,
+    "fields": {
+      "designation": "architectural drafter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 49,
+    "fields": {
+      "designation": "architectural manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 50,
+    "fields": {
+      "designation": "archivist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 51,
+    "fields": {
+      "designation": "art director",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 52,
+    "fields": {
+      "designation": "art teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 53,
+    "fields": {
+      "designation": "artist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 54,
+    "fields": {
+      "designation": "assembler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 55,
+    "fields": {
+      "designation": "astronomer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 56,
+    "fields": {
+      "designation": "athlete",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 57,
+    "fields": {
+      "designation": "athletic trainer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 58,
+    "fields": {
+      "designation": "ATM machine repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 59,
+    "fields": {
+      "designation": "atmospheric scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 60,
+    "fields": {
+      "designation": "attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 61,
+    "fields": {
+      "designation": "audio and video equipment technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 62,
+    "fields": {
+      "designation": "audio-visual and multimedia collections specialist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 63,
+    "fields": {
+      "designation": "audiologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 64,
+    "fields": {
+      "designation": "auditor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 65,
+    "fields": {
+      "designation": "author",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 66,
+    "fields": {
+      "designation": "auto damage insurance appraiser",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 67,
+    "fields": {
+      "designation": "automotive and watercraft service attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 68,
+    "fields": {
+      "designation": "automotive glass installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 69,
+    "fields": {
+      "designation": "automotive mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 70,
+    "fields": {
+      "designation": "avionics technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 71,
+    "fields": {
+      "designation": "baggage porter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 72,
+    "fields": {
+      "designation": "bailiff",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 73,
+    "fields": {
+      "designation": "baker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 74,
+    "fields": {
+      "designation": "barback",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 75,
+    "fields": {
+      "designation": "barber",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 76,
+    "fields": {
+      "designation": "bartender",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 77,
+    "fields": {
+      "designation": "basic education teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 78,
+    "fields": {
+      "designation": "behavioral disorder counselor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 79,
+    "fields": {
+      "designation": "bellhop",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 80,
+    "fields": {
+      "designation": "bench carpenter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 81,
+    "fields": {
+      "designation": "bicycle repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 82,
+    "fields": {
+      "designation": "bill and account collector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 83,
+    "fields": {
+      "designation": "billing and posting clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 84,
+    "fields": {
+      "designation": "biochemist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 85,
+    "fields": {
+      "designation": "biological technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 86,
+    "fields": {
+      "designation": "biomedical engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 87,
+    "fields": {
+      "designation": "biophysicist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 88,
+    "fields": {
+      "designation": "blaster",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 89,
+    "fields": {
+      "designation": "blending machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 90,
+    "fields": {
+      "designation": "blockmason",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 91,
+    "fields": {
+      "designation": "boiler operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 92,
+    "fields": {
+      "designation": "boilermaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 93,
+    "fields": {
+      "designation": "bookkeeper",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 94,
+    "fields": {
+      "designation": "boring machine tool tender",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 95,
+    "fields": {
+      "designation": "brazer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 96,
+    "fields": {
+      "designation": "brickmason",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 97,
+    "fields": {
+      "designation": "bridge and lock tender",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 98,
+    "fields": {
+      "designation": "broadcast news analyst",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 99,
+    "fields": {
+      "designation": "broadcast technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 100,
+    "fields": {
+      "designation": "brokerage clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 101,
+    "fields": {
+      "designation": "budget analyst",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 102,
+    "fields": {
+      "designation": "building inspector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 103,
+    "fields": {
+      "designation": "bus mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 104,
+    "fields": {
+      "designation": "butcher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 105,
+    "fields": {
+      "designation": "buyer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 106,
+    "fields": {
+      "designation": "cabinetmaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 107,
+    "fields": {
+      "designation": "cafeteria attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 108,
+    "fields": {
+      "designation": "cafeteria cook",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 109,
+    "fields": {
+      "designation": "camera operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 110,
+    "fields": {
+      "designation": "camera repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 111,
+    "fields": {
+      "designation": "cardiovascular technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 112,
+    "fields": {
+      "designation": "cargo agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 113,
+    "fields": {
+      "designation": "carpenter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 114,
+    "fields": {
+      "designation": "carpet installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 115,
+    "fields": {
+      "designation": "cartographer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 116,
+    "fields": {
+      "designation": "cashier",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 117,
+    "fields": {
+      "designation": "caster",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 118,
+    "fields": {
+      "designation": "ceiling tile installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 119,
+    "fields": {
+      "designation": "cellular equipment installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 120,
+    "fields": {
+      "designation": "cement mason",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 121,
+    "fields": {
+      "designation": "channeling machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 122,
+    "fields": {
+      "designation": "chauffeur",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 123,
+    "fields": {
+      "designation": "checker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 124,
+    "fields": {
+      "designation": "chef",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 125,
+    "fields": {
+      "designation": "chemical engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 126,
+    "fields": {
+      "designation": "chemical plant operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 127,
+    "fields": {
+      "designation": "chemist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 128,
+    "fields": {
+      "designation": "chemistry teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 129,
+    "fields": {
+      "designation": "chief executive",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 130,
+    "fields": {
+      "designation": "child social worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 131,
+    "fields": {
+      "designation": "childcare worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 132,
+    "fields": {
+      "designation": "chiropractor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 133,
+    "fields": {
+      "designation": "choreographer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 134,
+    "fields": {
+      "designation": "civil drafter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 135,
+    "fields": {
+      "designation": "civil engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 136,
+    "fields": {
+      "designation": "civil engineering technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 137,
+    "fields": {
+      "designation": "claims adjuster",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 138,
+    "fields": {
+      "designation": "claims examiner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 139,
+    "fields": {
+      "designation": "claims investigator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 140,
+    "fields": {
+      "designation": "cleaner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 141,
+    "fields": {
+      "designation": "clinical laboratory technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 142,
+    "fields": {
+      "designation": "clinical laboratory technologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 143,
+    "fields": {
+      "designation": "clinical psychologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 144,
+    "fields": {
+      "designation": "coating worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 145,
+    "fields": {
+      "designation": "coatroom attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 146,
+    "fields": {
+      "designation": "coil finisher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 147,
+    "fields": {
+      "designation": "coil taper",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 148,
+    "fields": {
+      "designation": "coil winder",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 149,
+    "fields": {
+      "designation": "coin machine servicer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 150,
+    "fields": {
+      "designation": "commercial diver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 151,
+    "fields": {
+      "designation": "commercial pilot",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 152,
+    "fields": {
+      "designation": "commodities sales agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 153,
+    "fields": {
+      "designation": "communications equipment operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 154,
+    "fields": {
+      "designation": "communications teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 155,
+    "fields": {
+      "designation": "community association manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 156,
+    "fields": {
+      "designation": "community service manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 157,
+    "fields": {
+      "designation": "compensation and benefits manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 158,
+    "fields": {
+      "designation": "compliance officer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 159,
+    "fields": {
+      "designation": "composer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 160,
+    "fields": {
+      "designation": "computer hardware engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 161,
+    "fields": {
+      "designation": "computer network architect",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 162,
+    "fields": {
+      "designation": "computer operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 163,
+    "fields": {
+      "designation": "computer programmer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 164,
+    "fields": {
+      "designation": "computer science teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 165,
+    "fields": {
+      "designation": "computer support specialist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 166,
+    "fields": {
+      "designation": "computer systems administrator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 167,
+    "fields": {
+      "designation": "computer systems analyst",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 168,
+    "fields": {
+      "designation": "concierge",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 169,
+    "fields": {
+      "designation": "conciliator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 170,
+    "fields": {
+      "designation": "concrete finisher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 171,
+    "fields": {
+      "designation": "conservation science teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 172,
+    "fields": {
+      "designation": "conservation scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 173,
+    "fields": {
+      "designation": "conservation worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 174,
+    "fields": {
+      "designation": "conservator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 175,
+    "fields": {
+      "designation": "construction inspector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 176,
+    "fields": {
+      "designation": "construction manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 177,
+    "fields": {
+      "designation": "construction painter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 178,
+    "fields": {
+      "designation": "construction worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 179,
+    "fields": {
+      "designation": "continuous mining machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 180,
+    "fields": {
+      "designation": "convention planner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 181,
+    "fields": {
+      "designation": "conveyor operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 182,
+    "fields": {
+      "designation": "cook",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 183,
+    "fields": {
+      "designation": "cooling equipment operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 184,
+    "fields": {
+      "designation": "copy marker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 185,
+    "fields": {
+      "designation": "correctional officer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 186,
+    "fields": {
+      "designation": "correctional treatment specialist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 187,
+    "fields": {
+      "designation": "correspondence clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 188,
+    "fields": {
+      "designation": "correspondent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 189,
+    "fields": {
+      "designation": "cosmetologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 190,
+    "fields": {
+      "designation": "cost estimator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 191,
+    "fields": {
+      "designation": "costume attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 192,
+    "fields": {
+      "designation": "counseling psychologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 193,
+    "fields": {
+      "designation": "counselor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 194,
+    "fields": {
+      "designation": "courier",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 195,
+    "fields": {
+      "designation": "court reporter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 196,
+    "fields": {
+      "designation": "craft artist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 197,
+    "fields": {
+      "designation": "crane operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 198,
+    "fields": {
+      "designation": "credit analyst",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 199,
+    "fields": {
+      "designation": "credit checker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 200,
+    "fields": {
+      "designation": "credit counselor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 201,
+    "fields": {
+      "designation": "criminal investigator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 202,
+    "fields": {
+      "designation": "criminal justice teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 203,
+    "fields": {
+      "designation": "crossing guard",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 204,
+    "fields": {
+      "designation": "curator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 205,
+    "fields": {
+      "designation": "custom sewer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 206,
+    "fields": {
+      "designation": "customer service representative",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 207,
+    "fields": {
+      "designation": "cutter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 208,
+    "fields": {
+      "designation": "cutting machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 209,
+    "fields": {
+      "designation": "dancer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 210,
+    "fields": {
+      "designation": "data entry keyer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 211,
+    "fields": {
+      "designation": "database administrator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 212,
+    "fields": {
+      "designation": "decorating worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 213,
+    "fields": {
+      "designation": "delivery services driver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 214,
+    "fields": {
+      "designation": "demonstrator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 215,
+    "fields": {
+      "designation": "dental assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 216,
+    "fields": {
+      "designation": "dental hygienist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 217,
+    "fields": {
+      "designation": "dental laboratory technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 218,
+    "fields": {
+      "designation": "dentist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 219,
+    "fields": {
+      "designation": "derrick operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 220,
+    "fields": {
+      "designation": "designer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 221,
+    "fields": {
+      "designation": "desktop publisher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 222,
+    "fields": {
+      "designation": "detective",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 223,
+    "fields": {
+      "designation": "diagnostic medical sonographer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 224,
+    "fields": {
+      "designation": "die maker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 225,
+    "fields": {
+      "designation": "diesel engine specialist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 226,
+    "fields": {
+      "designation": "dietetic technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 227,
+    "fields": {
+      "designation": "dietitian",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 228,
+    "fields": {
+      "designation": "dinkey operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 229,
+    "fields": {
+      "designation": "director",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 230,
+    "fields": {
+      "designation": "dishwasher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 231,
+    "fields": {
+      "designation": "dispatcher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 232,
+    "fields": {
+      "designation": "door-to-door sales worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 233,
+    "fields": {
+      "designation": "drafter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 234,
+    "fields": {
+      "designation": "dragline operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 235,
+    "fields": {
+      "designation": "drama teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 236,
+    "fields": {
+      "designation": "dredge operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 237,
+    "fields": {
+      "designation": "dressing room attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 238,
+    "fields": {
+      "designation": "dressmaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 239,
+    "fields": {
+      "designation": "drier operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 240,
+    "fields": {
+      "designation": "drilling machine tool operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 241,
+    "fields": {
+      "designation": "dry-cleaning worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 242,
+    "fields": {
+      "designation": "drywall installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 243,
+    "fields": {
+      "designation": "dyeing machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 244,
+    "fields": {
+      "designation": "earth driller",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 245,
+    "fields": {
+      "designation": "economics teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 246,
+    "fields": {
+      "designation": "economist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 247,
+    "fields": {
+      "designation": "editor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 248,
+    "fields": {
+      "designation": "education administrator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 249,
+    "fields": {
+      "designation": "electric motor repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 250,
+    "fields": {
+      "designation": "electrical electronics drafter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 251,
+    "fields": {
+      "designation": "electrical engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 252,
+    "fields": {
+      "designation": "electrical equipment assembler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 253,
+    "fields": {
+      "designation": "electrical installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 254,
+    "fields": {
+      "designation": "electrical power-line installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 255,
+    "fields": {
+      "designation": "electrician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 256,
+    "fields": {
+      "designation": "electro-mechanical technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 257,
+    "fields": {
+      "designation": "elementary school teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 258,
+    "fields": {
+      "designation": "elevator installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 259,
+    "fields": {
+      "designation": "elevator repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 260,
+    "fields": {
+      "designation": "embalmer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 261,
+    "fields": {
+      "designation": "emergency management director",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 262,
+    "fields": {
+      "designation": "emergency medical technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 263,
+    "fields": {
+      "designation": "engine assembler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 264,
+    "fields": {
+      "designation": "engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 265,
+    "fields": {
+      "designation": "engineering manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 266,
+    "fields": {
+      "designation": "engineering teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 267,
+    "fields": {
+      "designation": "english language teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 268,
+    "fields": {
+      "designation": "engraver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 269,
+    "fields": {
+      "designation": "entertainment attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 270,
+    "fields": {
+      "designation": "environmental engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 271,
+    "fields": {
+      "designation": "environmental science teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 272,
+    "fields": {
+      "designation": "environmental scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 273,
+    "fields": {
+      "designation": "epidemiologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 274,
+    "fields": {
+      "designation": "escort",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 275,
+    "fields": {
+      "designation": "etcher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 276,
+    "fields": {
+      "designation": "event planner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 277,
+    "fields": {
+      "designation": "excavating operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 278,
+    "fields": {
+      "designation": "executive administrative assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 279,
+    "fields": {
+      "designation": "executive secretary",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 280,
+    "fields": {
+      "designation": "exhibit designer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 281,
+    "fields": {
+      "designation": "expediting clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 282,
+    "fields": {
+      "designation": "explosives worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 283,
+    "fields": {
+      "designation": "extraction worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 284,
+    "fields": {
+      "designation": "fabric mender",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 285,
+    "fields": {
+      "designation": "fabric patternmaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 286,
+    "fields": {
+      "designation": "fabricator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 287,
+    "fields": {
+      "designation": "faller",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 288,
+    "fields": {
+      "designation": "family practitioner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 289,
+    "fields": {
+      "designation": "family social worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 290,
+    "fields": {
+      "designation": "family therapist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 291,
+    "fields": {
+      "designation": "farm advisor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 292,
+    "fields": {
+      "designation": "farm equipment mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 293,
+    "fields": {
+      "designation": "farm labor contractor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 294,
+    "fields": {
+      "designation": "farmer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 295,
+    "fields": {
+      "designation": "farmworker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 296,
+    "fields": {
+      "designation": "fashion designer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 297,
+    "fields": {
+      "designation": "fast food cook",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 298,
+    "fields": {
+      "designation": "fence erector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 299,
+    "fields": {
+      "designation": "fiberglass fabricator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 300,
+    "fields": {
+      "designation": "fiberglass laminator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 301,
+    "fields": {
+      "designation": "file clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 302,
+    "fields": {
+      "designation": "filling machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 303,
+    "fields": {
+      "designation": "film and video editor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 304,
+    "fields": {
+      "designation": "financial analyst",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 305,
+    "fields": {
+      "designation": "financial examiner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 306,
+    "fields": {
+      "designation": "financial manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 307,
+    "fields": {
+      "designation": "financial services sales agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 308,
+    "fields": {
+      "designation": "fine artist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 309,
+    "fields": {
+      "designation": "fire alarm system installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 310,
+    "fields": {
+      "designation": "fire dispatcher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 311,
+    "fields": {
+      "designation": "fire inspector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 312,
+    "fields": {
+      "designation": "fire investigator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 313,
+    "fields": {
+      "designation": "firefighter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 314,
+    "fields": {
+      "designation": "fish and game warden",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 315,
+    "fields": {
+      "designation": "fish cutter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 316,
+    "fields": {
+      "designation": "fish trimmer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 317,
+    "fields": {
+      "designation": "fisher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 318,
+    "fields": {
+      "designation": "fitness studies teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 319,
+    "fields": {
+      "designation": "fitness trainer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 320,
+    "fields": {
+      "designation": "flight attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 321,
+    "fields": {
+      "designation": "floor finisher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 322,
+    "fields": {
+      "designation": "floor layer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 323,
+    "fields": {
+      "designation": "floor sander",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 324,
+    "fields": {
+      "designation": "floral designer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 325,
+    "fields": {
+      "designation": "food batchmaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 326,
+    "fields": {
+      "designation": "food cooking machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 327,
+    "fields": {
+      "designation": "food preparation worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 328,
+    "fields": {
+      "designation": "food science technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 329,
+    "fields": {
+      "designation": "food scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 330,
+    "fields": {
+      "designation": "food server",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 331,
+    "fields": {
+      "designation": "food service manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 332,
+    "fields": {
+      "designation": "food technologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 333,
+    "fields": {
+      "designation": "foreign language teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 334,
+    "fields": {
+      "designation": "foreign literature teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 335,
+    "fields": {
+      "designation": "forensic science technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 336,
+    "fields": {
+      "designation": "forest fire inspector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 337,
+    "fields": {
+      "designation": "forest fire prevention specialist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 338,
+    "fields": {
+      "designation": "forest worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 339,
+    "fields": {
+      "designation": "forester",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 340,
+    "fields": {
+      "designation": "forestry teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 341,
+    "fields": {
+      "designation": "forging machine setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 342,
+    "fields": {
+      "designation": "foundry coremaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 343,
+    "fields": {
+      "designation": "freight agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 344,
+    "fields": {
+      "designation": "freight mover",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 345,
+    "fields": {
+      "designation": "fundraising manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 346,
+    "fields": {
+      "designation": "funeral attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 347,
+    "fields": {
+      "designation": "funeral director",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 348,
+    "fields": {
+      "designation": "funeral service manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 349,
+    "fields": {
+      "designation": "furnace operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 350,
+    "fields": {
+      "designation": "furnishings worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 351,
+    "fields": {
+      "designation": "furniture finisher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 352,
+    "fields": {
+      "designation": "gaming booth cashier",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 353,
+    "fields": {
+      "designation": "gaming cage worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 354,
+    "fields": {
+      "designation": "gaming change person",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 355,
+    "fields": {
+      "designation": "gaming dealer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 356,
+    "fields": {
+      "designation": "gaming investigator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 357,
+    "fields": {
+      "designation": "gaming manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 358,
+    "fields": {
+      "designation": "gaming surveillance officer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 359,
+    "fields": {
+      "designation": "garment mender",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 360,
+    "fields": {
+      "designation": "garment presser",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 361,
+    "fields": {
+      "designation": "gas compressor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 362,
+    "fields": {
+      "designation": "gas plant operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 363,
+    "fields": {
+      "designation": "gas pumping station operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 364,
+    "fields": {
+      "designation": "general manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 365,
+    "fields": {
+      "designation": "general practitioner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 366,
+    "fields": {
+      "designation": "geographer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 367,
+    "fields": {
+      "designation": "geography teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 368,
+    "fields": {
+      "designation": "geological engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 369,
+    "fields": {
+      "designation": "geological technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 370,
+    "fields": {
+      "designation": "geoscientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 371,
+    "fields": {
+      "designation": "glazier",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 372,
+    "fields": {
+      "designation": "government program eligibility interviewer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 373,
+    "fields": {
+      "designation": "graduate teaching assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 374,
+    "fields": {
+      "designation": "graphic designer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 375,
+    "fields": {
+      "designation": "groundskeeper",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 376,
+    "fields": {
+      "designation": "groundskeeping worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 377,
+    "fields": {
+      "designation": "gynecologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 378,
+    "fields": {
+      "designation": "hairdresser",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 379,
+    "fields": {
+      "designation": "hairstylist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 380,
+    "fields": {
+      "designation": "hand grinding worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 381,
+    "fields": {
+      "designation": "hand laborer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 382,
+    "fields": {
+      "designation": "hand packager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 383,
+    "fields": {
+      "designation": "hand packer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 384,
+    "fields": {
+      "designation": "hand polishing worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 385,
+    "fields": {
+      "designation": "hand sewer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 386,
+    "fields": {
+      "designation": "hazardous materials removal worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 387,
+    "fields": {
+      "designation": "head cook",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 388,
+    "fields": {
+      "designation": "health and safety engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 389,
+    "fields": {
+      "designation": "health educator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 390,
+    "fields": {
+      "designation": "health information technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 391,
+    "fields": {
+      "designation": "health services manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 392,
+    "fields": {
+      "designation": "health specialties teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 393,
+    "fields": {
+      "designation": "healthcare social worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 394,
+    "fields": {
+      "designation": "hearing officer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 395,
+    "fields": {
+      "designation": "heat treating equipment setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 396,
+    "fields": {
+      "designation": "heating installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 397,
+    "fields": {
+      "designation": "heating mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 398,
+    "fields": {
+      "designation": "heavy truck driver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 399,
+    "fields": {
+      "designation": "highway maintenance worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 400,
+    "fields": {
+      "designation": "historian",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 401,
+    "fields": {
+      "designation": "history teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 402,
+    "fields": {
+      "designation": "hoist and winch operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 403,
+    "fields": {
+      "designation": "home appliance repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 404,
+    "fields": {
+      "designation": "home economics teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 405,
+    "fields": {
+      "designation": "home entertainment installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 406,
+    "fields": {
+      "designation": "home health aide",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 407,
+    "fields": {
+      "designation": "home management advisor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 408,
+    "fields": {
+      "designation": "host",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 409,
+    "fields": {
+      "designation": "hostess",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 410,
+    "fields": {
+      "designation": "hostler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 411,
+    "fields": {
+      "designation": "hotel desk clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 412,
+    "fields": {
+      "designation": "housekeeping cleaner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 413,
+    "fields": {
+      "designation": "human resources assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 414,
+    "fields": {
+      "designation": "human resources manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 415,
+    "fields": {
+      "designation": "human service assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 416,
+    "fields": {
+      "designation": "hunter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 417,
+    "fields": {
+      "designation": "hydrologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 418,
+    "fields": {
+      "designation": "illustrator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 419,
+    "fields": {
+      "designation": "industrial designer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 420,
+    "fields": {
+      "designation": "industrial engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 421,
+    "fields": {
+      "designation": "industrial engineering technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 422,
+    "fields": {
+      "designation": "industrial machinery mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 423,
+    "fields": {
+      "designation": "industrial production manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 424,
+    "fields": {
+      "designation": "industrial truck operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 425,
+    "fields": {
+      "designation": "industrial-organizational psychologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 426,
+    "fields": {
+      "designation": "information clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 427,
+    "fields": {
+      "designation": "information research scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 428,
+    "fields": {
+      "designation": "information security analyst",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 429,
+    "fields": {
+      "designation": "information systems manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 430,
+    "fields": {
+      "designation": "inspector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 431,
+    "fields": {
+      "designation": "instructional coordinator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 432,
+    "fields": {
+      "designation": "instructor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 433,
+    "fields": {
+      "designation": "insulation worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 434,
+    "fields": {
+      "designation": "insurance claims clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 435,
+    "fields": {
+      "designation": "insurance sales agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 436,
+    "fields": {
+      "designation": "insurance underwriter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 437,
+    "fields": {
+      "designation": "intercity bus driver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 438,
+    "fields": {
+      "designation": "interior designer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 439,
+    "fields": {
+      "designation": "internist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 440,
+    "fields": {
+      "designation": "interpreter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 441,
+    "fields": {
+      "designation": "interviewer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 442,
+    "fields": {
+      "designation": "investigator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 443,
+    "fields": {
+      "designation": "jailer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 444,
+    "fields": {
+      "designation": "janitor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 445,
+    "fields": {
+      "designation": "jeweler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 446,
+    "fields": {
+      "designation": "judge",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 447,
+    "fields": {
+      "designation": "judicial law clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 448,
+    "fields": {
+      "designation": "kettle operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 449,
+    "fields": {
+      "designation": "kiln operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 450,
+    "fields": {
+      "designation": "kindergarten teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 451,
+    "fields": {
+      "designation": "laboratory animal caretaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 452,
+    "fields": {
+      "designation": "landscape architect",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 453,
+    "fields": {
+      "designation": "landscaping worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 454,
+    "fields": {
+      "designation": "lathe setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 455,
+    "fields": {
+      "designation": "laundry worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 456,
+    "fields": {
+      "designation": "law enforcement teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 457,
+    "fields": {
+      "designation": "law teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 458,
+    "fields": {
+      "designation": "lawyer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 459,
+    "fields": {
+      "designation": "layout worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 460,
+    "fields": {
+      "designation": "leather worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 461,
+    "fields": {
+      "designation": "legal assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 462,
+    "fields": {
+      "designation": "legal secretary",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 463,
+    "fields": {
+      "designation": "legislator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 464,
+    "fields": {
+      "designation": "librarian",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 465,
+    "fields": {
+      "designation": "library assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 466,
+    "fields": {
+      "designation": "library science teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 467,
+    "fields": {
+      "designation": "library technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 468,
+    "fields": {
+      "designation": "licensed practical nurse",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 469,
+    "fields": {
+      "designation": "licensed vocational nurse",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 470,
+    "fields": {
+      "designation": "life scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 471,
+    "fields": {
+      "designation": "lifeguard",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 472,
+    "fields": {
+      "designation": "light truck driver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 473,
+    "fields": {
+      "designation": "line installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 474,
+    "fields": {
+      "designation": "literacy teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 475,
+    "fields": {
+      "designation": "literature teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 476,
+    "fields": {
+      "designation": "loading machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 477,
+    "fields": {
+      "designation": "loan clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 478,
+    "fields": {
+      "designation": "loan interviewer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 479,
+    "fields": {
+      "designation": "loan officer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 480,
+    "fields": {
+      "designation": "lobby attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 481,
+    "fields": {
+      "designation": "locker room attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 482,
+    "fields": {
+      "designation": "locksmith",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 483,
+    "fields": {
+      "designation": "locomotive engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 484,
+    "fields": {
+      "designation": "locomotive firer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 485,
+    "fields": {
+      "designation": "lodging manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 486,
+    "fields": {
+      "designation": "log grader",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 487,
+    "fields": {
+      "designation": "logging equipment operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 488,
+    "fields": {
+      "designation": "logistician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 489,
+    "fields": {
+      "designation": "machine feeder",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 490,
+    "fields": {
+      "designation": "machinist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 491,
+    "fields": {
+      "designation": "magistrate judge",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 492,
+    "fields": {
+      "designation": "magistrate",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 493,
+    "fields": {
+      "designation": "maid",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 494,
+    "fields": {
+      "designation": "mail clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 495,
+    "fields": {
+      "designation": "mail machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 496,
+    "fields": {
+      "designation": "mail superintendent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 497,
+    "fields": {
+      "designation": "maintenance painter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 498,
+    "fields": {
+      "designation": "maintenance worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 499,
+    "fields": {
+      "designation": "makeup artist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 500,
+    "fields": {
+      "designation": "management analyst",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 501,
+    "fields": {
+      "designation": "manicurist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 502,
+    "fields": {
+      "designation": "manufactured building installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 503,
+    "fields": {
+      "designation": "mapping technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 504,
+    "fields": {
+      "designation": "marble setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 505,
+    "fields": {
+      "designation": "marine engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 506,
+    "fields": {
+      "designation": "marine oiler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 507,
+    "fields": {
+      "designation": "market research analyst",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 508,
+    "fields": {
+      "designation": "marketing manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 509,
+    "fields": {
+      "designation": "marketing specialist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 510,
+    "fields": {
+      "designation": "marriage therapist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 511,
+    "fields": {
+      "designation": "massage therapist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 512,
+    "fields": {
+      "designation": "material mover",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 513,
+    "fields": {
+      "designation": "materials engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 514,
+    "fields": {
+      "designation": "materials scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 515,
+    "fields": {
+      "designation": "mathematical science teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 516,
+    "fields": {
+      "designation": "mathematical technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 517,
+    "fields": {
+      "designation": "mathematician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 518,
+    "fields": {
+      "designation": "maxillofacial surgeon",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 519,
+    "fields": {
+      "designation": "measurer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 520,
+    "fields": {
+      "designation": "meat cutter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 521,
+    "fields": {
+      "designation": "meat packer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 522,
+    "fields": {
+      "designation": "meat trimmer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 523,
+    "fields": {
+      "designation": "mechanical door repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 524,
+    "fields": {
+      "designation": "mechanical drafter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 525,
+    "fields": {
+      "designation": "mechanical engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 526,
+    "fields": {
+      "designation": "mechanical engineering technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 527,
+    "fields": {
+      "designation": "mediator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 528,
+    "fields": {
+      "designation": "medical appliance technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 529,
+    "fields": {
+      "designation": "medical assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 530,
+    "fields": {
+      "designation": "medical equipment preparer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 531,
+    "fields": {
+      "designation": "medical equipment repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 532,
+    "fields": {
+      "designation": "medical laboratory technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 533,
+    "fields": {
+      "designation": "medical laboratory technologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 534,
+    "fields": {
+      "designation": "medical records technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 535,
+    "fields": {
+      "designation": "medical scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 536,
+    "fields": {
+      "designation": "medical secretary",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 537,
+    "fields": {
+      "designation": "medical services manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 538,
+    "fields": {
+      "designation": "medical transcriptionist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 539,
+    "fields": {
+      "designation": "meeting planner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 540,
+    "fields": {
+      "designation": "mental health counselor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 541,
+    "fields": {
+      "designation": "mental health social worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 542,
+    "fields": {
+      "designation": "merchandise displayer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 543,
+    "fields": {
+      "designation": "messenger",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 544,
+    "fields": {
+      "designation": "metal caster",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 545,
+    "fields": {
+      "designation": "metal patternmaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 546,
+    "fields": {
+      "designation": "metal pickling operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 547,
+    "fields": {
+      "designation": "metal pourer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 548,
+    "fields": {
+      "designation": "metal worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 549,
+    "fields": {
+      "designation": "metal-refining furnace operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 550,
+    "fields": {
+      "designation": "metal-refining furnace tender",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 551,
+    "fields": {
+      "designation": "meter reader",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 552,
+    "fields": {
+      "designation": "microbiologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 553,
+    "fields": {
+      "designation": "middle school teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 554,
+    "fields": {
+      "designation": "milling machine setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 555,
+    "fields": {
+      "designation": "millwright",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 556,
+    "fields": {
+      "designation": "mine cutting machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 557,
+    "fields": {
+      "designation": "mine shuttle car operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 558,
+    "fields": {
+      "designation": "mining engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 559,
+    "fields": {
+      "designation": "mining safety engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 560,
+    "fields": {
+      "designation": "mining safety inspector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 561,
+    "fields": {
+      "designation": "mining service unit operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 562,
+    "fields": {
+      "designation": "mixing machine setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 563,
+    "fields": {
+      "designation": "mobile heavy equipment mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 564,
+    "fields": {
+      "designation": "mobile home installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 565,
+    "fields": {
+      "designation": "model maker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 566,
+    "fields": {
+      "designation": "model",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 567,
+    "fields": {
+      "designation": "molder",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 568,
+    "fields": {
+      "designation": "mortician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 569,
+    "fields": {
+      "designation": "motel desk clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 570,
+    "fields": {
+      "designation": "motion picture projectionist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 571,
+    "fields": {
+      "designation": "motorboat mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 572,
+    "fields": {
+      "designation": "motorboat operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 573,
+    "fields": {
+      "designation": "motorboat service technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 574,
+    "fields": {
+      "designation": "motorcycle mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 575,
+    "fields": {
+      "designation": "multimedia artist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 576,
+    "fields": {
+      "designation": "museum technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 577,
+    "fields": {
+      "designation": "music director",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 578,
+    "fields": {
+      "designation": "music teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 579,
+    "fields": {
+      "designation": "musical instrument repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 580,
+    "fields": {
+      "designation": "musician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 581,
+    "fields": {
+      "designation": "natural sciences manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 582,
+    "fields": {
+      "designation": "naval architect",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 583,
+    "fields": {
+      "designation": "network systems administrator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 584,
+    "fields": {
+      "designation": "new accounts clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 585,
+    "fields": {
+      "designation": "news vendor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 586,
+    "fields": {
+      "designation": "nonfarm animal caretaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 587,
+    "fields": {
+      "designation": "nuclear engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 588,
+    "fields": {
+      "designation": "nuclear medicine technologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 589,
+    "fields": {
+      "designation": "nuclear power reactor operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 590,
+    "fields": {
+      "designation": "nuclear technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 591,
+    "fields": {
+      "designation": "nursing aide",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 592,
+    "fields": {
+      "designation": "nursing instructor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 593,
+    "fields": {
+      "designation": "nursing teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 594,
+    "fields": {
+      "designation": "nutritionist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 595,
+    "fields": {
+      "designation": "obstetrician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 596,
+    "fields": {
+      "designation": "occupational health and safety specialist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 597,
+    "fields": {
+      "designation": "occupational health and safety technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 598,
+    "fields": {
+      "designation": "occupational therapist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 599,
+    "fields": {
+      "designation": "occupational therapy aide",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 600,
+    "fields": {
+      "designation": "occupational therapy assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 601,
+    "fields": {
+      "designation": "offbearer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 602,
+    "fields": {
+      "designation": "office clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 603,
+    "fields": {
+      "designation": "office machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 604,
+    "fields": {
+      "designation": "operating engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 605,
+    "fields": {
+      "designation": "operations manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 606,
+    "fields": {
+      "designation": "operations research analyst",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 607,
+    "fields": {
+      "designation": "ophthalmic laboratory technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 608,
+    "fields": {
+      "designation": "optician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 609,
+    "fields": {
+      "designation": "optometrist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 610,
+    "fields": {
+      "designation": "oral surgeon",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 611,
+    "fields": {
+      "designation": "order clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 612,
+    "fields": {
+      "designation": "order filler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 613,
+    "fields": {
+      "designation": "orderly",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 614,
+    "fields": {
+      "designation": "ordnance handling expert",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 615,
+    "fields": {
+      "designation": "orthodontist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 616,
+    "fields": {
+      "designation": "orthotist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 617,
+    "fields": {
+      "designation": "outdoor power equipment mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 618,
+    "fields": {
+      "designation": "oven operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 619,
+    "fields": {
+      "designation": "packaging machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 620,
+    "fields": {
+      "designation": "painter ",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 621,
+    "fields": {
+      "designation": "painting worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 622,
+    "fields": {
+      "designation": "paper goods machine setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 623,
+    "fields": {
+      "designation": "paperhanger",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 624,
+    "fields": {
+      "designation": "paralegal",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 625,
+    "fields": {
+      "designation": "paramedic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 626,
+    "fields": {
+      "designation": "parking enforcement worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 627,
+    "fields": {
+      "designation": "parking lot attendant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 628,
+    "fields": {
+      "designation": "parts salesperson",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 629,
+    "fields": {
+      "designation": "paving equipment operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 630,
+    "fields": {
+      "designation": "payroll clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 631,
+    "fields": {
+      "designation": "pediatrician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 632,
+    "fields": {
+      "designation": "pedicurist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 633,
+    "fields": {
+      "designation": "personal care aide",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 634,
+    "fields": {
+      "designation": "personal chef",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 635,
+    "fields": {
+      "designation": "personal financial advisor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 636,
+    "fields": {
+      "designation": "pest control worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 637,
+    "fields": {
+      "designation": "pesticide applicator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 638,
+    "fields": {
+      "designation": "pesticide handler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 639,
+    "fields": {
+      "designation": "pesticide sprayer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 640,
+    "fields": {
+      "designation": "petroleum engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 641,
+    "fields": {
+      "designation": "petroleum gauger",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 642,
+    "fields": {
+      "designation": "petroleum pump system operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 643,
+    "fields": {
+      "designation": "petroleum refinery operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 644,
+    "fields": {
+      "designation": "petroleum technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 645,
+    "fields": {
+      "designation": "pharmacist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 646,
+    "fields": {
+      "designation": "pharmacy aide",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 647,
+    "fields": {
+      "designation": "pharmacy technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 648,
+    "fields": {
+      "designation": "philosophy teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 649,
+    "fields": {
+      "designation": "photogrammetrist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 650,
+    "fields": {
+      "designation": "photographer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 651,
+    "fields": {
+      "designation": "photographic process worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 652,
+    "fields": {
+      "designation": "photographic processing machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 653,
+    "fields": {
+      "designation": "physical therapist aide",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 654,
+    "fields": {
+      "designation": "physical therapist assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 655,
+    "fields": {
+      "designation": "physical therapist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 656,
+    "fields": {
+      "designation": "physician assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 657,
+    "fields": {
+      "designation": "physician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 658,
+    "fields": {
+      "designation": "physicist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 659,
+    "fields": {
+      "designation": "physics teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 660,
+    "fields": {
+      "designation": "pile-driver operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 661,
+    "fields": {
+      "designation": "pipefitter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 662,
+    "fields": {
+      "designation": "pipelayer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 663,
+    "fields": {
+      "designation": "planing machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 664,
+    "fields": {
+      "designation": "planning clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 665,
+    "fields": {
+      "designation": "plant operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 666,
+    "fields": {
+      "designation": "plant scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 667,
+    "fields": {
+      "designation": "plasterer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 668,
+    "fields": {
+      "designation": "plastic patternmaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 669,
+    "fields": {
+      "designation": "plastic worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 670,
+    "fields": {
+      "designation": "plumber",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 671,
+    "fields": {
+      "designation": "podiatrist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 672,
+    "fields": {
+      "designation": "police dispatcher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 673,
+    "fields": {
+      "designation": "police officer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 674,
+    "fields": {
+      "designation": "policy processing clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 675,
+    "fields": {
+      "designation": "political science teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 676,
+    "fields": {
+      "designation": "political scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 677,
+    "fields": {
+      "designation": "postal service clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 678,
+    "fields": {
+      "designation": "postal service mail carrier",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 679,
+    "fields": {
+      "designation": "postal service mail processing machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 680,
+    "fields": {
+      "designation": "postal service mail processor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 681,
+    "fields": {
+      "designation": "postal service mail sorter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 682,
+    "fields": {
+      "designation": "postmaster",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 683,
+    "fields": {
+      "designation": "postsecondary teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 684,
+    "fields": {
+      "designation": "poultry cutter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 685,
+    "fields": {
+      "designation": "poultry trimmer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 686,
+    "fields": {
+      "designation": "power dispatcher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 687,
+    "fields": {
+      "designation": "power distributor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 688,
+    "fields": {
+      "designation": "power plant operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 689,
+    "fields": {
+      "designation": "power tool repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 690,
+    "fields": {
+      "designation": "precious stone worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 691,
+    "fields": {
+      "designation": "precision instrument repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 692,
+    "fields": {
+      "designation": "prepress technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 693,
+    "fields": {
+      "designation": "preschool teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 694,
+    "fields": {
+      "designation": "priest",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 695,
+    "fields": {
+      "designation": "print binding worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 696,
+    "fields": {
+      "designation": "printing press operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 697,
+    "fields": {
+      "designation": "private detective",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 698,
+    "fields": {
+      "designation": "probation officer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 699,
+    "fields": {
+      "designation": "procurement clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 700,
+    "fields": {
+      "designation": "producer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 701,
+    "fields": {
+      "designation": "product promoter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 702,
+    "fields": {
+      "designation": "production clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 703,
+    "fields": {
+      "designation": "production occupation",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 704,
+    "fields": {
+      "designation": "proofreader",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 705,
+    "fields": {
+      "designation": "property manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 706,
+    "fields": {
+      "designation": "prosthetist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 707,
+    "fields": {
+      "designation": "prosthodontist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 708,
+    "fields": {
+      "designation": "psychiatric aide",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 709,
+    "fields": {
+      "designation": "psychiatric technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 710,
+    "fields": {
+      "designation": "psychiatrist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 711,
+    "fields": {
+      "designation": "psychologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 712,
+    "fields": {
+      "designation": "psychology teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 713,
+    "fields": {
+      "designation": "public relations manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 714,
+    "fields": {
+      "designation": "public relations specialist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 715,
+    "fields": {
+      "designation": "pump operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 716,
+    "fields": {
+      "designation": "purchasing agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 717,
+    "fields": {
+      "designation": "purchasing manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 718,
+    "fields": {
+      "designation": "radiation therapist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 719,
+    "fields": {
+      "designation": "radio announcer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 720,
+    "fields": {
+      "designation": "radio equipment installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 721,
+    "fields": {
+      "designation": "radio operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 722,
+    "fields": {
+      "designation": "radiologic technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 723,
+    "fields": {
+      "designation": "radiologic technologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 724,
+    "fields": {
+      "designation": "rail car repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 725,
+    "fields": {
+      "designation": "rail transportation worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 726,
+    "fields": {
+      "designation": "rail yard engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 727,
+    "fields": {
+      "designation": "rail-track laying equipment operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 728,
+    "fields": {
+      "designation": "railroad brake operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 729,
+    "fields": {
+      "designation": "railroad conductor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 730,
+    "fields": {
+      "designation": "railroad police",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 731,
+    "fields": {
+      "designation": "rancher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 732,
+    "fields": {
+      "designation": "real estate appraiser",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 733,
+    "fields": {
+      "designation": "real estate broker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 734,
+    "fields": {
+      "designation": "real estate manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 735,
+    "fields": {
+      "designation": "real estate sales agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 736,
+    "fields": {
+      "designation": "receiving clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 737,
+    "fields": {
+      "designation": "receptionist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 738,
+    "fields": {
+      "designation": "record clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 739,
+    "fields": {
+      "designation": "recreation teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 740,
+    "fields": {
+      "designation": "recreation worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 741,
+    "fields": {
+      "designation": "recreational therapist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 742,
+    "fields": {
+      "designation": "recreational vehicle service technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 743,
+    "fields": {
+      "designation": "recyclable material collector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 744,
+    "fields": {
+      "designation": "referee",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 745,
+    "fields": {
+      "designation": "refractory materials repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 746,
+    "fields": {
+      "designation": "refrigeration installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 747,
+    "fields": {
+      "designation": "refrigeration mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 748,
+    "fields": {
+      "designation": "refuse collector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 749,
+    "fields": {
+      "designation": "regional planner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 750,
+    "fields": {
+      "designation": "registered nurse",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 751,
+    "fields": {
+      "designation": "rehabilitation counselor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 752,
+    "fields": {
+      "designation": "reinforcing iron worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 753,
+    "fields": {
+      "designation": "reinforcing rebar worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 754,
+    "fields": {
+      "designation": "religion teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 755,
+    "fields": {
+      "designation": "religious activities director",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 756,
+    "fields": {
+      "designation": "religious worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 757,
+    "fields": {
+      "designation": "rental clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 758,
+    "fields": {
+      "designation": "repair worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 759,
+    "fields": {
+      "designation": "reporter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 760,
+    "fields": {
+      "designation": "residential advisor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 761,
+    "fields": {
+      "designation": "resort desk clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 762,
+    "fields": {
+      "designation": "respiratory therapist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 763,
+    "fields": {
+      "designation": "respiratory therapy technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 764,
+    "fields": {
+      "designation": "retail buyer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 765,
+    "fields": {
+      "designation": "retail salesperson",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 766,
+    "fields": {
+      "designation": "revenue agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 767,
+    "fields": {
+      "designation": "rigger",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 768,
+    "fields": {
+      "designation": "rock splitter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 769,
+    "fields": {
+      "designation": "rolling machine tender",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 770,
+    "fields": {
+      "designation": "roof bolter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 771,
+    "fields": {
+      "designation": "roofer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 772,
+    "fields": {
+      "designation": "rotary drill operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 773,
+    "fields": {
+      "designation": "roustabout",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 774,
+    "fields": {
+      "designation": "safe repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 775,
+    "fields": {
+      "designation": "sailor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 776,
+    "fields": {
+      "designation": "sales engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 777,
+    "fields": {
+      "designation": "sales manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 778,
+    "fields": {
+      "designation": "sales representative",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 779,
+    "fields": {
+      "designation": "sampler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 780,
+    "fields": {
+      "designation": "sawing machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 781,
+    "fields": {
+      "designation": "scaler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 782,
+    "fields": {
+      "designation": "school bus driver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 783,
+    "fields": {
+      "designation": "school psychologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 784,
+    "fields": {
+      "designation": "school social worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 785,
+    "fields": {
+      "designation": "scout leader",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 786,
+    "fields": {
+      "designation": "sculptor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 787,
+    "fields": {
+      "designation": "secondary education teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 788,
+    "fields": {
+      "designation": "secondary school teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 789,
+    "fields": {
+      "designation": "secretary",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 790,
+    "fields": {
+      "designation": "securities sales agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 791,
+    "fields": {
+      "designation": "security guard",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 792,
+    "fields": {
+      "designation": "security system installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 793,
+    "fields": {
+      "designation": "segmental paver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 794,
+    "fields": {
+      "designation": "self-enrichment education teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 795,
+    "fields": {
+      "designation": "semiconductor processor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 796,
+    "fields": {
+      "designation": "septic tank servicer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 797,
+    "fields": {
+      "designation": "set designer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 798,
+    "fields": {
+      "designation": "sewer pipe cleaner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 799,
+    "fields": {
+      "designation": "sewing machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 800,
+    "fields": {
+      "designation": "shampooer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 801,
+    "fields": {
+      "designation": "shaper",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 802,
+    "fields": {
+      "designation": "sheet metal worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 803,
+    "fields": {
+      "designation": "sheriff's patrol officer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 804,
+    "fields": {
+      "designation": "ship captain",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 805,
+    "fields": {
+      "designation": "ship engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 806,
+    "fields": {
+      "designation": "ship loader",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 807,
+    "fields": {
+      "designation": "shipmate",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 808,
+    "fields": {
+      "designation": "shipping clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 809,
+    "fields": {
+      "designation": "shoe machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 810,
+    "fields": {
+      "designation": "shoe worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 811,
+    "fields": {
+      "designation": "short order cook",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 812,
+    "fields": {
+      "designation": "signal operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 813,
+    "fields": {
+      "designation": "signal repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 814,
+    "fields": {
+      "designation": "singer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 815,
+    "fields": {
+      "designation": "ski patrol",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 816,
+    "fields": {
+      "designation": "skincare specialist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 817,
+    "fields": {
+      "designation": "slaughterer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 818,
+    "fields": {
+      "designation": "slicing machine tender",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 819,
+    "fields": {
+      "designation": "slot supervisor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 820,
+    "fields": {
+      "designation": "social science research assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 821,
+    "fields": {
+      "designation": "social sciences teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 822,
+    "fields": {
+      "designation": "social scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 823,
+    "fields": {
+      "designation": "social service assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 824,
+    "fields": {
+      "designation": "social service manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 825,
+    "fields": {
+      "designation": "social work teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 826,
+    "fields": {
+      "designation": "social worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 827,
+    "fields": {
+      "designation": "sociologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 828,
+    "fields": {
+      "designation": "sociology teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 829,
+    "fields": {
+      "designation": "software developer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 830,
+    "fields": {
+      "designation": "software engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 831,
+    "fields": {
+      "designation": "soil scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 832,
+    "fields": {
+      "designation": "solderer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 833,
+    "fields": {
+      "designation": "sorter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 834,
+    "fields": {
+      "designation": "sound engineering technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 835,
+    "fields": {
+      "designation": "space scientist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 836,
+    "fields": {
+      "designation": "special education teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 837,
+    "fields": {
+      "designation": "speech-language pathologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 838,
+    "fields": {
+      "designation": "sports book runner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 839,
+    "fields": {
+      "designation": "sports entertainer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 840,
+    "fields": {
+      "designation": "sports performer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 841,
+    "fields": {
+      "designation": "stationary engineer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 842,
+    "fields": {
+      "designation": "statistical assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 843,
+    "fields": {
+      "designation": "statistician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 844,
+    "fields": {
+      "designation": "steamfitter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 845,
+    "fields": {
+      "designation": "stock clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 846,
+    "fields": {
+      "designation": "stock mover",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 847,
+    "fields": {
+      "designation": "stonemason",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 848,
+    "fields": {
+      "designation": "street vendor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 849,
+    "fields": {
+      "designation": "streetcar operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 850,
+    "fields": {
+      "designation": "structural iron worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 851,
+    "fields": {
+      "designation": "structural metal fabricator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 852,
+    "fields": {
+      "designation": "structural metal fitter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 853,
+    "fields": {
+      "designation": "structural steel worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 854,
+    "fields": {
+      "designation": "stucco mason",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 855,
+    "fields": {
+      "designation": "substance abuse counselor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 856,
+    "fields": {
+      "designation": "substance abuse social worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 857,
+    "fields": {
+      "designation": "subway operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 858,
+    "fields": {
+      "designation": "surfacing equipment operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 859,
+    "fields": {
+      "designation": "surgeon",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 860,
+    "fields": {
+      "designation": "surgical technologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 861,
+    "fields": {
+      "designation": "survey researcher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 862,
+    "fields": {
+      "designation": "surveying technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 863,
+    "fields": {
+      "designation": "surveyor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 864,
+    "fields": {
+      "designation": "switch operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 865,
+    "fields": {
+      "designation": "switchboard operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 866,
+    "fields": {
+      "designation": "tailor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 867,
+    "fields": {
+      "designation": "tamping equipment operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 868,
+    "fields": {
+      "designation": "tank car loader",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 869,
+    "fields": {
+      "designation": "taper",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 870,
+    "fields": {
+      "designation": "tax collector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 871,
+    "fields": {
+      "designation": "tax examiner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 872,
+    "fields": {
+      "designation": "tax preparer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 873,
+    "fields": {
+      "designation": "taxi driver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 874,
+    "fields": {
+      "designation": "teacher assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 875,
+    "fields": {
+      "designation": "teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 876,
+    "fields": {
+      "designation": "team assembler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 877,
+    "fields": {
+      "designation": "technical writer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 878,
+    "fields": {
+      "designation": "telecommunications equipment installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 879,
+    "fields": {
+      "designation": "telemarketer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 880,
+    "fields": {
+      "designation": "telephone operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 881,
+    "fields": {
+      "designation": "television announcer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 882,
+    "fields": {
+      "designation": "teller",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 883,
+    "fields": {
+      "designation": "terrazzo finisher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 884,
+    "fields": {
+      "designation": "terrazzo worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 885,
+    "fields": {
+      "designation": "tester",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 886,
+    "fields": {
+      "designation": "textile bleaching operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 887,
+    "fields": {
+      "designation": "textile cutting machine setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 888,
+    "fields": {
+      "designation": "textile knitting machine setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 889,
+    "fields": {
+      "designation": "textile presser",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 890,
+    "fields": {
+      "designation": "textile worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 891,
+    "fields": {
+      "designation": "therapist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 892,
+    "fields": {
+      "designation": "ticket agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 893,
+    "fields": {
+      "designation": "ticket taker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 894,
+    "fields": {
+      "designation": "tile setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 895,
+    "fields": {
+      "designation": "timekeeping clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 896,
+    "fields": {
+      "designation": "timing device assembler",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 897,
+    "fields": {
+      "designation": "tire builder",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 898,
+    "fields": {
+      "designation": "tire changer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 899,
+    "fields": {
+      "designation": "tire repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 900,
+    "fields": {
+      "designation": "title abstractor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 901,
+    "fields": {
+      "designation": "title examiner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 902,
+    "fields": {
+      "designation": "title searcher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 903,
+    "fields": {
+      "designation": "tobacco roasting machine operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 904,
+    "fields": {
+      "designation": "tool filer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 905,
+    "fields": {
+      "designation": "tool grinder",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 906,
+    "fields": {
+      "designation": "tool maker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 907,
+    "fields": {
+      "designation": "tool sharpener",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 908,
+    "fields": {
+      "designation": "tour guide",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 909,
+    "fields": {
+      "designation": "tower equipment installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 910,
+    "fields": {
+      "designation": "tower operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 911,
+    "fields": {
+      "designation": "track switch repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 912,
+    "fields": {
+      "designation": "tractor operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 913,
+    "fields": {
+      "designation": "tractor-trailer truck driver",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 914,
+    "fields": {
+      "designation": "traffic clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 915,
+    "fields": {
+      "designation": "traffic technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 916,
+    "fields": {
+      "designation": "training and development manager",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 917,
+    "fields": {
+      "designation": "training and development specialist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 918,
+    "fields": {
+      "designation": "transit police",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 919,
+    "fields": {
+      "designation": "translator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 920,
+    "fields": {
+      "designation": "transportation equipment painter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 921,
+    "fields": {
+      "designation": "transportation inspector",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 922,
+    "fields": {
+      "designation": "transportation security screener",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 923,
+    "fields": {
+      "designation": "transportation worker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 924,
+    "fields": {
+      "designation": "trapper",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 925,
+    "fields": {
+      "designation": "travel agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 926,
+    "fields": {
+      "designation": "travel clerk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 927,
+    "fields": {
+      "designation": "travel guide",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 928,
+    "fields": {
+      "designation": "tree pruner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 929,
+    "fields": {
+      "designation": "tree trimmer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 930,
+    "fields": {
+      "designation": "trimmer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 931,
+    "fields": {
+      "designation": "truck loader",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 932,
+    "fields": {
+      "designation": "truck mechanic",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 933,
+    "fields": {
+      "designation": "tuner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 934,
+    "fields": {
+      "designation": "turning machine tool operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 935,
+    "fields": {
+      "designation": "typist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 936,
+    "fields": {
+      "designation": "umpire",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 937,
+    "fields": {
+      "designation": "undertaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 938,
+    "fields": {
+      "designation": "upholsterer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 939,
+    "fields": {
+      "designation": "urban planner",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 940,
+    "fields": {
+      "designation": "usher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 941,
+    "fields": {
+      "designation": "valve installer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 942,
+    "fields": {
+      "designation": "vending machine servicer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 943,
+    "fields": {
+      "designation": "veterinarian",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 944,
+    "fields": {
+      "designation": "veterinary assistant",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 945,
+    "fields": {
+      "designation": "veterinary technician",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 946,
+    "fields": {
+      "designation": "vocational counselor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 947,
+    "fields": {
+      "designation": "vocational education teacher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 948,
+    "fields": {
+      "designation": "waiter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 949,
+    "fields": {
+      "designation": "waitress",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 950,
+    "fields": {
+      "designation": "watch repairer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 951,
+    "fields": {
+      "designation": "water treatment plant operator",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 952,
+    "fields": {
+      "designation": "weaving machine setter",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 953,
+    "fields": {
+      "designation": "web developer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 954,
+    "fields": {
+      "designation": "weigher",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 955,
+    "fields": {
+      "designation": "welder",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 956,
+    "fields": {
+      "designation": "wellhead pumper",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 957,
+    "fields": {
+      "designation": "wholesale buyer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 958,
+    "fields": {
+      "designation": "wildlife biologist",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 959,
+    "fields": {
+      "designation": "window trimmer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 960,
+    "fields": {
+      "designation": "wood patternmaker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 961,
+    "fields": {
+      "designation": "woodworker",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 962,
+    "fields": {
+      "designation": "word processor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 963,
+    "fields": {
+      "designation": "writer",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 964,
+    "fields": {
+      "designation": "yardmaster",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.designation",
+    "pk": 965,
+    "fields": {
+      "designation": "zoologist",
+      "verified": true
+    }
+  }
+]

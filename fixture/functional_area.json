@@ -1,0 +1,394 @@
+[
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 1,
+    "fields": {
+      "functional_area_name": "Accounts / Finance / Tax / CS / Audit",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 2,
+    "fields": {
+      "functional_area_name": "Agent",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 3,
+    "fields": {
+      "functional_area_name": "Analytics & Business Intelligence",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 4,
+    "fields": {
+      "functional_area_name": "Architecture / Interior Design",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 5,
+    "fields": {
+      "functional_area_name": "Banking / Insurance",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 6,
+    "fields": {
+      "functional_area_name": "Beauty / Fitness / Spa Services",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 7,
+    "fields": {
+      "functional_area_name": "Content / Journalism",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 8,
+    "fields": {
+      "functional_area_name": "Corporate Planning / Consulting",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 9,
+    "fields": {
+      "functional_area_name": "CSR & Sustainability",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 10,
+    "fields": {
+      "functional_area_name": "Engineering Design / R&D",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 11,
+    "fields": {
+      "functional_area_name": "Export / Import / Merchandising",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 12,
+    "fields": {
+      "functional_area_name": "Fashion / Garments / Merchandising",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 13,
+    "fields": {
+      "functional_area_name": "Guards / Security Services",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 14,
+    "fields": {
+      "functional_area_name": "Hotels / Restaurants",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 15,
+    "fields": {
+      "functional_area_name": "HR / Administration / IR",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 16,
+    "fields": {
+      "functional_area_name": "IT- Hardware / Telecom / Technical Staff / Support",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 17,
+    "fields": {
+      "functional_area_name": "IT Software - Application Programming / Maintenance",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 18,
+    "fields": {
+      "functional_area_name": "IT Software - Client Server",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 19,
+    "fields": {
+      "functional_area_name": "IT Software - DBA / Datawarehousing",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 20,
+    "fields": {
+      "functional_area_name": "IT Software - E-Commerce / Internet Technologies",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 21,
+    "fields": {
+      "functional_area_name": "IT Software - Embedded /EDA /VLSI /ASIC /Chip Des.",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 22,
+    "fields": {
+      "functional_area_name": "IT Software - ERP / CRM",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 23,
+    "fields": {
+      "functional_area_name": "IT Software - Mainframe",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 24,
+    "fields": {
+      "functional_area_name": "IT Software - Middleware",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 25,
+    "fields": {
+      "functional_area_name": "IT Software - Mobile",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 26,
+    "fields": {
+      "functional_area_name": "IT Software - Network Administration / Security",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 27,
+    "fields": {
+      "functional_area_name": "IT Software - Other",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 28,
+    "fields": {
+      "functional_area_name": "IT Software - QA & Testing",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 29,
+    "fields": {
+      "functional_area_name": "IT Software - System Programming",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 30,
+    "fields": {
+      "functional_area_name": "IT Software - Systems / EDP / MIS",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 31,
+    "fields": {
+      "functional_area_name": "IT Software - Telecom Software",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 32,
+    "fields": {
+      "functional_area_name": "ITES / BPO / KPO / Customer Service / Operations",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 33,
+    "fields": {
+      "functional_area_name": "Legal",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 34,
+    "fields": {
+      "functional_area_name": "Marketing / Advertising / MR / PR",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 35,
+    "fields": {
+      "functional_area_name": "Pharma / Biotech / Healthcare / Medical / R&D",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 36,
+    "fields": {
+      "functional_area_name": "Packaging",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 37,
+    "fields": {
+      "functional_area_name": "Production / Maintenance / Quality",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 38,
+    "fields": {
+      "functional_area_name": "Purchase / Logistics / Supply Chain",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 39,
+    "fields": {
+      "functional_area_name": "Sales / BD",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 40,
+    "fields": {
+      "functional_area_name": "Secretary / Front Office / Data Entry",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 41,
+    "fields": {
+      "functional_area_name": "Self Employed / Consultants",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 42,
+    "fields": {
+      "functional_area_name": "Shipping",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 43,
+    "fields": {
+      "functional_area_name": "Site Engineering / Project Management",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 44,
+    "fields": {
+      "functional_area_name": "Teaching / Education",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 45,
+    "fields": {
+      "functional_area_name": "Top Management",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 46,
+    "fields": {
+      "functional_area_name": "Ticketing / Travel / Airlines",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 47,
+    "fields": {
+      "functional_area_name": "TV / Films / Production",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 48,
+    "fields": {
+      "functional_area_name": "Web / Graphic Design / Visualiser",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.functionalarea",
+    "pk": 49,
+    "fields": {
+      "functional_area_name": "Other",
+      "verified": true
+    }
+  }
+]

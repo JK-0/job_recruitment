@@ -1,0 +1,1842 @@
+[
+  {
+    "model": "primary_data.language",
+    "pk": 1,
+    "fields": {
+      "language": "Afar",
+      "alpha2": "aa",
+      "alpha3_b": "aar",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 2,
+    "fields": {
+      "language": "Abkhazian",
+      "alpha2": "ab",
+      "alpha3_b": "abk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 3,
+    "fields": {
+      "language": "Afrikaans",
+      "alpha2": "af",
+      "alpha3_b": "afr",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 4,
+    "fields": {
+      "language": "Akan",
+      "alpha2": "ak",
+      "alpha3_b": "aka",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 5,
+    "fields": {
+      "language": "Albanian",
+      "alpha2": "sq",
+      "alpha3_b": "alb",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 6,
+    "fields": {
+      "language": "Amharic",
+      "alpha2": "am",
+      "alpha3_b": "amh",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 7,
+    "fields": {
+      "language": "Arabic",
+      "alpha2": "ar",
+      "alpha3_b": "ara",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 8,
+    "fields": {
+      "language": "Aragonese",
+      "alpha2": "an",
+      "alpha3_b": "arg",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 9,
+    "fields": {
+      "language": "Armenian",
+      "alpha2": "hy",
+      "alpha3_b": "arm",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 10,
+    "fields": {
+      "language": "Assamese",
+      "alpha2": "as",
+      "alpha3_b": "asm",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 11,
+    "fields": {
+      "language": "Avaric",
+      "alpha2": "av",
+      "alpha3_b": "ava",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 12,
+    "fields": {
+      "language": "Avestan",
+      "alpha2": "ae",
+      "alpha3_b": "ave",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 13,
+    "fields": {
+      "language": "Aymara",
+      "alpha2": "ay",
+      "alpha3_b": "aym",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 14,
+    "fields": {
+      "language": "Azerbaijani",
+      "alpha2": "az",
+      "alpha3_b": "aze",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 15,
+    "fields": {
+      "language": "Bashkir",
+      "alpha2": "ba",
+      "alpha3_b": "bak",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 16,
+    "fields": {
+      "language": "Bambara",
+      "alpha2": "bm",
+      "alpha3_b": "bam",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 17,
+    "fields": {
+      "language": "Basque",
+      "alpha2": "eu",
+      "alpha3_b": "baq",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 18,
+    "fields": {
+      "language": "Belarusian",
+      "alpha2": "be",
+      "alpha3_b": "bel",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 19,
+    "fields": {
+      "language": "Bengali",
+      "alpha2": "bn",
+      "alpha3_b": "ben",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 20,
+    "fields": {
+      "language": "Bihari languages",
+      "alpha2": "bh",
+      "alpha3_b": "bih",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 21,
+    "fields": {
+      "language": "Bislama",
+      "alpha2": "bi",
+      "alpha3_b": "bis",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 22,
+    "fields": {
+      "language": "Bosnian",
+      "alpha2": "bs",
+      "alpha3_b": "bos",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 23,
+    "fields": {
+      "language": "Breton",
+      "alpha2": "br",
+      "alpha3_b": "bre",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 24,
+    "fields": {
+      "language": "Bulgarian",
+      "alpha2": "bg",
+      "alpha3_b": "bul",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 25,
+    "fields": {
+      "language": "Burmese",
+      "alpha2": "my",
+      "alpha3_b": "bur",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 26,
+    "fields": {
+      "language": "Catalan; Valencian",
+      "alpha2": "ca",
+      "alpha3_b": "cat",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 27,
+    "fields": {
+      "language": "Chamorro",
+      "alpha2": "ch",
+      "alpha3_b": "cha",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 28,
+    "fields": {
+      "language": "Chechen",
+      "alpha2": "ce",
+      "alpha3_b": "che",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 29,
+    "fields": {
+      "language": "Chinese",
+      "alpha2": "zh",
+      "alpha3_b": "chi",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 30,
+    "fields": {
+      "language": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic",
+      "alpha2": "cu",
+      "alpha3_b": "chu",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 31,
+    "fields": {
+      "language": "Chuvash",
+      "alpha2": "cv",
+      "alpha3_b": "chv",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 32,
+    "fields": {
+      "language": "Cornish",
+      "alpha2": "kw",
+      "alpha3_b": "cor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 33,
+    "fields": {
+      "language": "Corsican",
+      "alpha2": "co",
+      "alpha3_b": "cos",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 34,
+    "fields": {
+      "language": "Cree",
+      "alpha2": "cr",
+      "alpha3_b": "cre",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 35,
+    "fields": {
+      "language": "Czech",
+      "alpha2": "cs",
+      "alpha3_b": "cze",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 36,
+    "fields": {
+      "language": "Danish",
+      "alpha2": "da",
+      "alpha3_b": "dan",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 37,
+    "fields": {
+      "language": "Divehi; Dhivehi; Maldivian",
+      "alpha2": "dv",
+      "alpha3_b": "div",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 38,
+    "fields": {
+      "language": "Dutch; Flemish",
+      "alpha2": "nl",
+      "alpha3_b": "dut",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 39,
+    "fields": {
+      "language": "Dzongkha",
+      "alpha2": "dz",
+      "alpha3_b": "dzo",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 40,
+    "fields": {
+      "language": "English",
+      "alpha2": "en",
+      "alpha3_b": "eng",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 41,
+    "fields": {
+      "language": "Esperanto",
+      "alpha2": "eo",
+      "alpha3_b": "epo",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 42,
+    "fields": {
+      "language": "Estonian",
+      "alpha2": "et",
+      "alpha3_b": "est",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 43,
+    "fields": {
+      "language": "Ewe",
+      "alpha2": "ee",
+      "alpha3_b": "ewe",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 44,
+    "fields": {
+      "language": "Faroese",
+      "alpha2": "fo",
+      "alpha3_b": "fao",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 45,
+    "fields": {
+      "language": "Fijian",
+      "alpha2": "fj",
+      "alpha3_b": "fij",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 46,
+    "fields": {
+      "language": "Finnish",
+      "alpha2": "fi",
+      "alpha3_b": "fin",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 47,
+    "fields": {
+      "language": "French",
+      "alpha2": "fr",
+      "alpha3_b": "fre",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 48,
+    "fields": {
+      "language": "Western Frisian",
+      "alpha2": "fy",
+      "alpha3_b": "fry",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 49,
+    "fields": {
+      "language": "Fulah",
+      "alpha2": "ff",
+      "alpha3_b": "ful",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 50,
+    "fields": {
+      "language": "Georgian",
+      "alpha2": "ka",
+      "alpha3_b": "geo",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 51,
+    "fields": {
+      "language": "German",
+      "alpha2": "de",
+      "alpha3_b": "ger",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 52,
+    "fields": {
+      "language": "Gaelic; Scottish Gaelic",
+      "alpha2": "gd",
+      "alpha3_b": "gla",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 53,
+    "fields": {
+      "language": "Irish",
+      "alpha2": "ga",
+      "alpha3_b": "gle",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 54,
+    "fields": {
+      "language": "Galician",
+      "alpha2": "gl",
+      "alpha3_b": "glg",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 55,
+    "fields": {
+      "language": "Manx",
+      "alpha2": "gv",
+      "alpha3_b": "glv",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 56,
+    "fields": {
+      "language": "Greek, Modern (1453-)",
+      "alpha2": "el",
+      "alpha3_b": "gre",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 57,
+    "fields": {
+      "language": "Guarani",
+      "alpha2": "gn",
+      "alpha3_b": "grn",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 58,
+    "fields": {
+      "language": "Gujarati",
+      "alpha2": "gu",
+      "alpha3_b": "guj",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 59,
+    "fields": {
+      "language": "Haitian; Haitian Creole",
+      "alpha2": "ht",
+      "alpha3_b": "hat",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 60,
+    "fields": {
+      "language": "Hausa",
+      "alpha2": "ha",
+      "alpha3_b": "hau",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 61,
+    "fields": {
+      "language": "Hebrew",
+      "alpha2": "he",
+      "alpha3_b": "heb",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 62,
+    "fields": {
+      "language": "Herero",
+      "alpha2": "hz",
+      "alpha3_b": "her",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 63,
+    "fields": {
+      "language": "Hindi",
+      "alpha2": "hi",
+      "alpha3_b": "hin",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 64,
+    "fields": {
+      "language": "Hiri Motu",
+      "alpha2": "ho",
+      "alpha3_b": "hmo",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 65,
+    "fields": {
+      "language": "Croatian",
+      "alpha2": "hr",
+      "alpha3_b": "hrv",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 66,
+    "fields": {
+      "language": "Hungarian",
+      "alpha2": "hu",
+      "alpha3_b": "hun",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 67,
+    "fields": {
+      "language": "Igbo",
+      "alpha2": "ig",
+      "alpha3_b": "ibo",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 68,
+    "fields": {
+      "language": "Icelandic",
+      "alpha2": "is",
+      "alpha3_b": "ice",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 69,
+    "fields": {
+      "language": "Ido",
+      "alpha2": "io",
+      "alpha3_b": "ido",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 70,
+    "fields": {
+      "language": "Sichuan Yi; Nuosu",
+      "alpha2": "ii",
+      "alpha3_b": "iii",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 71,
+    "fields": {
+      "language": "Inuktitut",
+      "alpha2": "iu",
+      "alpha3_b": "iku",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 72,
+    "fields": {
+      "language": "Interlingue; Occidental",
+      "alpha2": "ie",
+      "alpha3_b": "ile",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 73,
+    "fields": {
+      "language": "Interlingua (International Auxiliary Language Association)",
+      "alpha2": "ia",
+      "alpha3_b": "ina",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 74,
+    "fields": {
+      "language": "Indonesian",
+      "alpha2": "id",
+      "alpha3_b": "ind",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 75,
+    "fields": {
+      "language": "Inupiaq",
+      "alpha2": "ik",
+      "alpha3_b": "ipk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 76,
+    "fields": {
+      "language": "Italian",
+      "alpha2": "it",
+      "alpha3_b": "ita",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 77,
+    "fields": {
+      "language": "Javanese",
+      "alpha2": "jv",
+      "alpha3_b": "jav",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 78,
+    "fields": {
+      "language": "Japanese",
+      "alpha2": "ja",
+      "alpha3_b": "jpn",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 79,
+    "fields": {
+      "language": "Kalaallisut; Greenlandic",
+      "alpha2": "kl",
+      "alpha3_b": "kal",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 80,
+    "fields": {
+      "language": "Kannada",
+      "alpha2": "kn",
+      "alpha3_b": "kan",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 81,
+    "fields": {
+      "language": "Kashmiri",
+      "alpha2": "ks",
+      "alpha3_b": "kas",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 82,
+    "fields": {
+      "language": "Kanuri",
+      "alpha2": "kr",
+      "alpha3_b": "kau",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 83,
+    "fields": {
+      "language": "Kazakh",
+      "alpha2": "kk",
+      "alpha3_b": "kaz",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 84,
+    "fields": {
+      "language": "Central Khmer",
+      "alpha2": "km",
+      "alpha3_b": "khm",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 85,
+    "fields": {
+      "language": "Kikuyu; Gikuyu",
+      "alpha2": "ki",
+      "alpha3_b": "kik",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 86,
+    "fields": {
+      "language": "Kinyarwanda",
+      "alpha2": "rw",
+      "alpha3_b": "kin",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 87,
+    "fields": {
+      "language": "Kirghiz; Kyrgyz",
+      "alpha2": "ky",
+      "alpha3_b": "kir",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 88,
+    "fields": {
+      "language": "Komi",
+      "alpha2": "kv",
+      "alpha3_b": "kom",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 89,
+    "fields": {
+      "language": "Kongo",
+      "alpha2": "kg",
+      "alpha3_b": "kon",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 90,
+    "fields": {
+      "language": "Korean",
+      "alpha2": "ko",
+      "alpha3_b": "kor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 91,
+    "fields": {
+      "language": "Kuanyama; Kwanyama",
+      "alpha2": "kj",
+      "alpha3_b": "kua",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 92,
+    "fields": {
+      "language": "Kurdish",
+      "alpha2": "ku",
+      "alpha3_b": "kur",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 93,
+    "fields": {
+      "language": "Lao",
+      "alpha2": "lo",
+      "alpha3_b": "lao",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 94,
+    "fields": {
+      "language": "Latin",
+      "alpha2": "la",
+      "alpha3_b": "lat",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 95,
+    "fields": {
+      "language": "Latvian",
+      "alpha2": "lv",
+      "alpha3_b": "lav",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 96,
+    "fields": {
+      "language": "Limburgan; Limburger; Limburgish",
+      "alpha2": "li",
+      "alpha3_b": "lim",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 97,
+    "fields": {
+      "language": "Lingala",
+      "alpha2": "ln",
+      "alpha3_b": "lin",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 98,
+    "fields": {
+      "language": "Lithuanian",
+      "alpha2": "lt",
+      "alpha3_b": "lit",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 99,
+    "fields": {
+      "language": "Luxembourgish; Letzeburgesch",
+      "alpha2": "lb",
+      "alpha3_b": "ltz",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 100,
+    "fields": {
+      "language": "Luba-Katanga",
+      "alpha2": "lu",
+      "alpha3_b": "lub",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 101,
+    "fields": {
+      "language": "Ganda",
+      "alpha2": "lg",
+      "alpha3_b": "lug",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 102,
+    "fields": {
+      "language": "Macedonian",
+      "alpha2": "mk",
+      "alpha3_b": "mac",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 103,
+    "fields": {
+      "language": "Marshallese",
+      "alpha2": "mh",
+      "alpha3_b": "mah",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 104,
+    "fields": {
+      "language": "Malayalam",
+      "alpha2": "ml",
+      "alpha3_b": "mal",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 105,
+    "fields": {
+      "language": "Maori",
+      "alpha2": "mi",
+      "alpha3_b": "mao",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 106,
+    "fields": {
+      "language": "Marathi",
+      "alpha2": "mr",
+      "alpha3_b": "mar",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 107,
+    "fields": {
+      "language": "Malay",
+      "alpha2": "ms",
+      "alpha3_b": "may",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 108,
+    "fields": {
+      "language": "Malagasy",
+      "alpha2": "mg",
+      "alpha3_b": "mlg",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 109,
+    "fields": {
+      "language": "Maltese",
+      "alpha2": "mt",
+      "alpha3_b": "mlt",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 110,
+    "fields": {
+      "language": "Mongolian",
+      "alpha2": "mn",
+      "alpha3_b": "mon",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 111,
+    "fields": {
+      "language": "Nauru",
+      "alpha2": "na",
+      "alpha3_b": "nau",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 112,
+    "fields": {
+      "language": "Navajo; Navaho",
+      "alpha2": "nv",
+      "alpha3_b": "nav",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 113,
+    "fields": {
+      "language": "Ndebele, South; South Ndebele",
+      "alpha2": "nr",
+      "alpha3_b": "nbl",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 114,
+    "fields": {
+      "language": "Ndebele, North; North Ndebele",
+      "alpha2": "nd",
+      "alpha3_b": "nde",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 115,
+    "fields": {
+      "language": "Ndonga",
+      "alpha2": "ng",
+      "alpha3_b": "ndo",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 116,
+    "fields": {
+      "language": "Nepali",
+      "alpha2": "ne",
+      "alpha3_b": "nep",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 117,
+    "fields": {
+      "language": "Norwegian Nynorsk; Nynorsk, Norwegian",
+      "alpha2": "nn",
+      "alpha3_b": "nno",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 118,
+    "fields": {
+      "language": "Bokm�l, Norwegian; Norwegian Bokm�l",
+      "alpha2": "nb",
+      "alpha3_b": "nob",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 119,
+    "fields": {
+      "language": "Norwegian",
+      "alpha2": "no",
+      "alpha3_b": "nor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 120,
+    "fields": {
+      "language": "Chichewa; Chewa; Nyanja",
+      "alpha2": "ny",
+      "alpha3_b": "nya",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 121,
+    "fields": {
+      "language": "Occitan (post 1500)",
+      "alpha2": "oc",
+      "alpha3_b": "oci",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 122,
+    "fields": {
+      "language": "Ojibwa",
+      "alpha2": "oj",
+      "alpha3_b": "oji",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 123,
+    "fields": {
+      "language": "Oriya",
+      "alpha2": "or",
+      "alpha3_b": "ori",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 124,
+    "fields": {
+      "language": "Oromo",
+      "alpha2": "om",
+      "alpha3_b": "orm",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 125,
+    "fields": {
+      "language": "Ossetian; Ossetic",
+      "alpha2": "os",
+      "alpha3_b": "oss",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 126,
+    "fields": {
+      "language": "Panjabi; Punjabi",
+      "alpha2": "pa",
+      "alpha3_b": "pan",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 127,
+    "fields": {
+      "language": "Persian",
+      "alpha2": "fa",
+      "alpha3_b": "per",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 128,
+    "fields": {
+      "language": "Pali",
+      "alpha2": "pi",
+      "alpha3_b": "pli",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 129,
+    "fields": {
+      "language": "Polish",
+      "alpha2": "pl",
+      "alpha3_b": "pol",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 130,
+    "fields": {
+      "language": "Portuguese",
+      "alpha2": "pt",
+      "alpha3_b": "por",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 131,
+    "fields": {
+      "language": "Pushto; Pashto",
+      "alpha2": "ps",
+      "alpha3_b": "pus",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 132,
+    "fields": {
+      "language": "Quechua",
+      "alpha2": "qu",
+      "alpha3_b": "que",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 133,
+    "fields": {
+      "language": "Romansh",
+      "alpha2": "rm",
+      "alpha3_b": "roh",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 134,
+    "fields": {
+      "language": "Romanian; Moldavian; Moldovan",
+      "alpha2": "ro",
+      "alpha3_b": "rum",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 135,
+    "fields": {
+      "language": "Rundi",
+      "alpha2": "rn",
+      "alpha3_b": "run",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 136,
+    "fields": {
+      "language": "Russian",
+      "alpha2": "ru",
+      "alpha3_b": "rus",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 137,
+    "fields": {
+      "language": "Sango",
+      "alpha2": "sg",
+      "alpha3_b": "sag",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 138,
+    "fields": {
+      "language": "Sanskrit",
+      "alpha2": "sa",
+      "alpha3_b": "san",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 139,
+    "fields": {
+      "language": "Sinhala; Sinhalese",
+      "alpha2": "si",
+      "alpha3_b": "sin",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 140,
+    "fields": {
+      "language": "Slovak",
+      "alpha2": "sk",
+      "alpha3_b": "slo",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 141,
+    "fields": {
+      "language": "Slovenian",
+      "alpha2": "sl",
+      "alpha3_b": "slv",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 142,
+    "fields": {
+      "language": "Northern Sami",
+      "alpha2": "se",
+      "alpha3_b": "sme",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 143,
+    "fields": {
+      "language": "Samoan",
+      "alpha2": "sm",
+      "alpha3_b": "smo",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 144,
+    "fields": {
+      "language": "Shona",
+      "alpha2": "sn",
+      "alpha3_b": "sna",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 145,
+    "fields": {
+      "language": "Sindhi",
+      "alpha2": "sd",
+      "alpha3_b": "snd",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 146,
+    "fields": {
+      "language": "Somali",
+      "alpha2": "so",
+      "alpha3_b": "som",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 147,
+    "fields": {
+      "language": "Sotho, Southern",
+      "alpha2": "st",
+      "alpha3_b": "sot",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 148,
+    "fields": {
+      "language": "Spanish; Castilian",
+      "alpha2": "es",
+      "alpha3_b": "spa",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 149,
+    "fields": {
+      "language": "Sardinian",
+      "alpha2": "sc",
+      "alpha3_b": "srd",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 150,
+    "fields": {
+      "language": "Serbian",
+      "alpha2": "sr",
+      "alpha3_b": "srp",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 151,
+    "fields": {
+      "language": "Swati",
+      "alpha2": "ss",
+      "alpha3_b": "ssw",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 152,
+    "fields": {
+      "language": "Sundanese",
+      "alpha2": "su",
+      "alpha3_b": "sun",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 153,
+    "fields": {
+      "language": "Swahili",
+      "alpha2": "sw",
+      "alpha3_b": "swa",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 154,
+    "fields": {
+      "language": "Swedish",
+      "alpha2": "sv",
+      "alpha3_b": "swe",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 155,
+    "fields": {
+      "language": "Tahitian",
+      "alpha2": "ty",
+      "alpha3_b": "tah",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 156,
+    "fields": {
+      "language": "Tamil",
+      "alpha2": "ta",
+      "alpha3_b": "tam",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 157,
+    "fields": {
+      "language": "Tatar",
+      "alpha2": "tt",
+      "alpha3_b": "tat",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 158,
+    "fields": {
+      "language": "Telugu",
+      "alpha2": "te",
+      "alpha3_b": "tel",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 159,
+    "fields": {
+      "language": "Tajik",
+      "alpha2": "tg",
+      "alpha3_b": "tgk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 160,
+    "fields": {
+      "language": "Tagalog",
+      "alpha2": "tl",
+      "alpha3_b": "tgl",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 161,
+    "fields": {
+      "language": "Thai",
+      "alpha2": "th",
+      "alpha3_b": "tha",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 162,
+    "fields": {
+      "language": "Tibetan",
+      "alpha2": "bo",
+      "alpha3_b": "tib",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 163,
+    "fields": {
+      "language": "Tigrinya",
+      "alpha2": "ti",
+      "alpha3_b": "tir",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 164,
+    "fields": {
+      "language": "Tonga (Tonga Islands)",
+      "alpha2": "to",
+      "alpha3_b": "ton",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 165,
+    "fields": {
+      "language": "Tswana",
+      "alpha2": "tn",
+      "alpha3_b": "tsn",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 166,
+    "fields": {
+      "language": "Tsonga",
+      "alpha2": "ts",
+      "alpha3_b": "tso",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 167,
+    "fields": {
+      "language": "Turkmen",
+      "alpha2": "tk",
+      "alpha3_b": "tuk",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 168,
+    "fields": {
+      "language": "Turkish",
+      "alpha2": "tr",
+      "alpha3_b": "tur",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 169,
+    "fields": {
+      "language": "Twi",
+      "alpha2": "tw",
+      "alpha3_b": "twi",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 170,
+    "fields": {
+      "language": "Uighur; Uyghur",
+      "alpha2": "ug",
+      "alpha3_b": "uig",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 171,
+    "fields": {
+      "language": "Ukrainian",
+      "alpha2": "uk",
+      "alpha3_b": "ukr",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 172,
+    "fields": {
+      "language": "Urdu",
+      "alpha2": "ur",
+      "alpha3_b": "urd",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 173,
+    "fields": {
+      "language": "Uzbek",
+      "alpha2": "uz",
+      "alpha3_b": "uzb",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 174,
+    "fields": {
+      "language": "Venda",
+      "alpha2": "ve",
+      "alpha3_b": "ven",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 175,
+    "fields": {
+      "language": "Vietnamese",
+      "alpha2": "vi",
+      "alpha3_b": "vie",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 176,
+    "fields": {
+      "language": "Volap�k",
+      "alpha2": "vo",
+      "alpha3_b": "vol",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 177,
+    "fields": {
+      "language": "Welsh",
+      "alpha2": "cy",
+      "alpha3_b": "wel",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 178,
+    "fields": {
+      "language": "Walloon",
+      "alpha2": "wa",
+      "alpha3_b": "wln",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 179,
+    "fields": {
+      "language": "Wolof",
+      "alpha2": "wo",
+      "alpha3_b": "wol",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 180,
+    "fields": {
+      "language": "Xhosa",
+      "alpha2": "xh",
+      "alpha3_b": "xho",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 181,
+    "fields": {
+      "language": "Yiddish",
+      "alpha2": "yi",
+      "alpha3_b": "yid",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 182,
+    "fields": {
+      "language": "Yoruba",
+      "alpha2": "yo",
+      "alpha3_b": "yor",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 183,
+    "fields": {
+      "language": "Zhuang; Chuang",
+      "alpha2": "za",
+      "alpha3_b": "zha",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.language",
+    "pk": 184,
+    "fields": {
+      "language": "Zulu",
+      "alpha2": "zu",
+      "alpha3_b": "zul",
+      "verified": true
+    }
+  }
+]

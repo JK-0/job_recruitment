@@ -1,0 +1,58 @@
+[
+  {
+    "model": "primary_data.preferredlocation",
+    "pk": 1,
+    "fields": {
+      "location": "Any",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.preferredlocation",
+    "pk": 2,
+    "fields": {
+      "location": "Anywhere in India",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.preferredlocation",
+    "pk": 3,
+    "fields": {
+      "location": "Anywhere in World",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.preferredlocation",
+    "pk": 4,
+    "fields": {
+      "location": "Anywhere in North India",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.preferredlocation",
+    "pk": 5,
+    "fields": {
+      "location": "Anywhere in South India",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.preferredlocation",
+    "pk": 6,
+    "fields": {
+      "location": "Anywhere in West India",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.preferredlocation",
+    "pk": 7,
+    "fields": {
+      "location": "Anywhere in East India",
+      "verified": true
+    }
+  }
+]

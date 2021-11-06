@@ -1,0 +1,146 @@
+[
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 1,
+    "fields": {
+      "school_medium": "Assamese / Asomiya",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 2,
+    "fields": {
+      "school_medium": "Bengali / Bangla",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 3,
+    "fields": {
+      "school_medium": "English",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 4,
+    "fields": {
+      "school_medium": "Gujarati",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 5,
+    "fields": {
+      "school_medium": "Hindi",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 6,
+    "fields": {
+      "school_medium": "Kannada",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 7,
+    "fields": {
+      "school_medium": "Kashmir",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 8,
+    "fields": {
+      "school_medium": "Konkani",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 9,
+    "fields": {
+      "school_medium": "Malayalam",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 10,
+    "fields": {
+      "school_medium": "Manipuri",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 11,
+    "fields": {
+      "school_medium": "Marathi",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 12,
+    "fields": {
+      "school_medium": "Oriya",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 13,
+    "fields": {
+      "school_medium": "Punjabi",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 14,
+    "fields": {
+      "school_medium": "Sanskrit",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 15,
+    "fields": {
+      "school_medium": "Tamil",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 16,
+    "fields": {
+      "school_medium": "Telugu",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 17,
+    "fields": {
+      "school_medium": "Urdu",
+      "verified": true
+    }
+  },
+  {
+    "model": "primary_data.schoolmedium",
+    "pk": 18,
+    "fields": {
+      "school_medium": "Other",
+      "verified": true
+    }
+  }
+]
