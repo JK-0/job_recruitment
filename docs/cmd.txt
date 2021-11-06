@@ -1,0 +1,80 @@
+{% comment %} create venv {% endcomment %}
+python -m venv venv
+
+{% comment %} deactivate venv {% endcomment %}
+deactivate
+
+{% comment %} activate venv {% endcomment %}
+. venv/Scripts/activate
+
+{% comment %} django cmd {% endcomment %}
+django-admin -h
+django-admin startproject job_recruitment
+django-admin startapp app
+django-admin startapp api
+django-admin startapp user
+django-admin startapp primary_data
+django-admin startapp jobseekers
+django-admin startapp employer
+
+{% comment %} django migrations cmd {% endcomment %}
+python manage.py makemigrations
+python manage.py migrate
+
+{% comment %} get all install pacakages to requirements.txt {% endcomment %}
+pip freeze > requirement.txt
+
+{% comment %} load fixtures data to db {% endcomment %}
+python manage.py loaddata fixture/country.json
+python manage.py loaddata fixture/state.json
+python manage.py loaddata fixture/city.json
+python manage.py loaddata fixture/university.json
+python manage.py loaddata fixture/board.json
+python manage.py loaddata fixture/school_medium.json
+python manage.py loaddata fixture/course.json
+python manage.py loaddata fixture/specialization.json
+python manage.py loaddata fixture/language.json
+python manage.py loaddata fixture/functional_area.json
+python manage.py loaddata fixture/role.json
+python manage.py loaddata fixture/preferred_location.json
+python manage.py loaddata fixture/designation.json
+python manage.py loaddata fixture/key_skill.json
+
+{% comment %} create superuser {% endcomment %}
+python manage.py makesuper
+
+{% comment %} get data from db and save to file {% endcomment %}
+python manage.py dumpdata primary_data.preferredlocation > preferred_location.json
+python manage.py dumpdata primary_data.designation > designation.json
+python manage.py dumpdata primary_data.keyskill > key_skill.json
+python manage.py dumpdata primary_data.functionalarea > functional_area.json
+python manage.py dumpdata primary_data.language > language.json
+python manage.py dumpdata primary_data.specialization > specialization.json
+python manage.py dumpdata primary_data.course > course.json
+python manage.py dumpdata primary_data.schoolmedium > school_medium.json
+python manage.py dumpdata primary_data.board > board.json
+
+{% comment %} remove cache file's {% endcomment %}
+find . | grep -E "(__pycache__|\.pyc|\.pyo$)" | xargs rm -rf
+
+{% comment %} create coverage repoart {% endcomment %}
+coverage run manage.py test && coverage report && coverage html
+
+{% comment %} upgrade pip {% endcomment %}
+python -m pip install --upgrade pip
+
+{% comment %} install package manager {% endcomment %}
+pip install poetry
+
+{% comment %} add pacakget {% endcomment %}
+poetry add djangorestframework
+
+{% comment %} install packages {% endcomment %}
+poetry install
+
+{% comment %} for google api auth {% endcomment %}
+pip install google-api-python-client
+
+{% comment %} for google auth {% endcomment %}
+pip install --upgrade google-auth-oauthlib
+
