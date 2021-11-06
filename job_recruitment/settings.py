@@ -122,7 +122,7 @@ LOGIN_REDIRECT_URL = 'faq'
 #     }
 # }
 
-# postgresql
+# postgresql / mysql
 DATABASES = {"default": config("DATABASE_URL", cast=db_url)}
 DATABASES["default"]["ATOMIC_REQUESTS"] = True
 DATABASES["default"]["CONN_MAX_AGE"] = 60
