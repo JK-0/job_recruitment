@@ -69,6 +69,9 @@ pip install poetry
 {% comment %} add pacakget {% endcomment %}
 poetry add djangorestframework
 
+{% comment %} create requirements.txt file {% endcomment %}
+poetry export -f requirements.txt --output requirements.txt
+
 {% comment %} install packages {% endcomment %}
 poetry install
 
@@ -78,3 +81,12 @@ pip install google-api-python-client
 {% comment %} for google auth {% endcomment %}
 pip install --upgrade google-auth-oauthlib
 
+
+{% comment %} install mysql cient liberary {% endcomment %}
+sudo apt-get install libmysqlclient-dev
+
+{% comment %} install python3 dev package {% endcomment %}
+sudo apt-get install python3-dev
+
+{% comment %} install gcc liberary {% endcomment %}
+sudo apt-get install gcc

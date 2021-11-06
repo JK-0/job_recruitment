@@ -1,0 +1,26 @@
+name: deploy application
+
+on:
+  push:
+    branches:
+      - staging
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: executing remote ssh commands using ssh key
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        key: ${{ secrets.KEY }}
+        port: ${{ secrets.PORT }}
+        script: |
+          cd /var/www/html/job_recruitment
+          pwd
+          ls -la
+          git pull
+          source venv/bin/activate
+          poetry install
+          python manage.py migrate
